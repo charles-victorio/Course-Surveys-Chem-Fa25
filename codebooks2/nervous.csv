@@ -1,0 +1,68 @@
+,theme_id,primary_category,secondary_category,description,keywords,usernames,comments
+0,EX001,EXAMS,general,General anxiety about exams/midterms/finals,"exam,exams,midterm,midterms,final,tests,test,assessments",ExamAnxiety_99,I'm just really stressed about exams.
+1,EX002,EXAMS,format_structure,Concerns about exam format question types or structure,"format,structure,questions,types,free response,mcq,multiple choice,partial credit",FormatWorries_TA,I'm nervous about the way the questions are formatted.
+2,EX003,EXAMS,difficulty_level,Worried exams will be harder than expected,"difficulty,hard,difficult,trick,unpredictable,unexpected,curveball",HarderThanExpected,I'm worried the exams will be harder than expected.
+3,EX004,EXAMS,preparation_readiness,Nervous about being underprepared for exams,"underprepared,unprepared,not ready,not prepared,not enough practice",NotPrepared_24,I don't feel ready for the exam.
+4,EX005,EXAMS,pacing_timing,Concerns about time pressure during exams,"time,run out,fast,pace,pacing,timed,speed",RunningOutOfTime,I'm concerned about finishing on time.
+5,EX006,EXAMS,curve_grading,Nervous about grading curve or competition with peers,"curve,curved,competition,above others,benchmark,compared",CurvedOuttaLuck,I'm nervous about the grading curve.
+6,EX007,EXAMS,cumulative_final,Specific worry about cumulative final exam,"cumulative,final,final exam",CumulativeCrush,I'm worried about the cumulative final.
+7,EX008,EXAMS,multiple_exams,Stress about multiple exams close together,"back to back,same day,multiple,several exams,together",BackToBackExams,I'm stressed about having multiple exams close together.
+8,EX009,EXAMS,test_anxiety,General test anxiety or blanking out,"test anxiety,blank out,freeze,panic,nervous during",MindGoesBlank,I get really nervous during tests and blank out.
+9,PC001,PACE_CONTENT,course_pace,Nervous about course moving too quickly,"pace,fast,quick,speed,rush,goes fast,moves fast",TooFast_Pace,I'm worried the course moves too quickly.
+10,PC002,PACE_CONTENT,workload_general,General concerns about managing workload,"workload,load,amount of work,heavy,intense,overwhelming",HeavyWorkload,I'm concerned about managing the workload.
+11,PC003,PACE_CONTENT,content_volume,Specific worry about amount of content/material,"volume,sheer volume,amount of content,quantity,magnitude,so much",SoMuchContent,There's just so much content to learn.
+12,PC004,PACE_CONTENT,time_management,Nervous about balancing time for this course,"time management,manage time,find time,make time",TimeManagement,I'm struggling to find time for this course.
+13,PC005,PACE_CONTENT,balancing_courses,Concerns about balancing with other classes,"other classes,other courses,other STEM,other workload,multiple classes",JugglingClasses,I'm worried about balancing this with my other classes.
+14,PC006,PACE_CONTENT,balancing_life,Concerns about balancing with life/extracurriculars,"extracurricular,activities,life outside,personal,balance everything",NoLife_Balance,I'm concerned about balancing school with everything else.
+15,PC007,PACE_CONTENT,quarter_system,Stress about adjusting to quarter system pace,"quarter system,10 weeks,short term,fast paced quarter",QuarterSystemShock,I'm stressed about adjusting to the quarter system pace.
+16,CN001,CONTENT_KNOWLEDGE,memorization_general,General anxiety about memorization required,"memorize,memorization,remember,retain,memory,bad memory",MemorizationHell,I'm worried about all the memorization required.
+17,CN002,CONTENT_KNOWLEDGE,reactions_mechanisms,Specific worry about reactions and mechanisms,"reactions,mechanisms,reagents,synthesis,drawing products",ReactionsAndMechanisms,I'm nervous about the reactions and mechanisms.
+18,CN003,CONTENT_KNOWLEDGE,conceptual_understanding,Concern about truly understanding vs memorizing,"conceptual,understand,truly understand,deep understanding,grasp,intuit",DeepUnderstanding,I'm concerned about truly understanding the concepts.
+19,CN004,CONTENT_KNOWLEDGE,math_calculations,Nervous about mathematical aspects,"math,calculations,equations,formulas,numbers,quantum",MathIsHard,I'm worried about the math and calculations.
+20,CN005,CONTENT_KNOWLEDGE,application_problems,Worry about applying concepts to problems,"apply,application,solve problems,problem solving,practice problems",ApplyingConcepts,I'm nervous about applying concepts to problems.
+21,CN006,CONTENT_KNOWLEDGE,visualization,Difficulty with molecular visualization,"3D,2D,visualize,visualization,diagrams,draw,structural",VisualizeThis,I struggle with visualizing molecules and structures.
+22,FND001,FOUNDATION,prior_knowledge_gap,Concern about lacking prerequisite knowledge,"foundation,background,basics,prior knowledge,prerequisite",MissingFoundation,I'm worried I don't have the right background knowledge.
+23,FND002,FOUNDATION,thirtyA_specific,Specific worry about remembering Chem 30A content,"30A,previous course,last quarter,last class",Forgot30A,I'm concerned about remembering content from Chem 30A.
+24,FND003,FOUNDATION,high_school_gap,Gap since high school chemistry,"high school,AP Chem,senior year,11th grade,been a while",HighSchoolWasAgesAgo,It's been a while since I took high school chemistry.
+25,FND004,FOUNDATION,time_since_chem,Gap since any chemistry course,"since I took,last time,been years,long time,not fresh",BeenYearsSinceChem,I haven't taken chemistry in a long time.
+27,LAB001,LABORATORY,lab_skills,Nervous about lab procedures and techniques,"lab,laboratory,equipment,experiment,technique,skills,hands-on",LabSkills,I'm nervous about lab procedures and techniques.
+28,LAB002,LABORATORY,lab_workload,Concern about pre-lab/post-lab workload,"pre-lab,post-lab,prelab,postlab,lab report,lab manual",LabReportLoad,I'm concerned about the pre-lab and post-lab workload.
+29,LAB003,LABORATORY,lab_pacing,Worry about finishing labs on time,"finish lab,lab period,complete experiment,time in lab,rushed",FinishLabOnTime,I'm worried about finishing experiments during lab period.
+30,LAB004,LABORATORY,lab_final,Concern about lab content on final,"lab final,lab practical,experiment on final",LabOnFinal,I'm concerned about lab content being on the final.
+31,PR001,PERFORMANCE_FEARS,falling_behind,Fear of getting behind and not catching up,"fall behind,get behind,falling behind,catch up,behind,stay on track",FallingBehind,I'm worried about falling behind and not catching up.
+32,PR002,PERFORMANCE_FEARS,failing,Fear of failing the course,"fail,failing,not pass,flop,do poorly",FearOfFailing,I'm afraid of failing the course.
+33,PR003,PERFORMANCE_FEARS,grades,Worry about specific grade outcomes,"grade,get an A,A,B,C,good grade,grade killer",GradeWorries,I'm concerned about what grade I'll get.
+34,PR004,PERFORMANCE_FEARS,gpa_impact,Concern about impact on GPA,"GPA,grade point,impact grades",GPAImpact,I'm worried about how this will affect my GPA.
+35,PR005,PERFORMANCE_FEARS,doing_well,General desire to succeed/do well,"succeed,success,do well,perform well",JustWantToDoWell,I just want to do well in the course.
+36,ST001,STUDY_METHODS,study_effectiveness,Unsure how to study effectively for this course,"study effectively,study habits,study methods,study strategies,how to study",HowToStudy,I'm not sure how to study effectively for this course.
+37,ST002,STUDY_METHODS,study_development,Need to develop new study approaches,"figure out,develop,new habits,different approach,find what works",NewStudyHabits,I need to figure out a new study approach.
+38,ST003,STUDY_METHODS,practice_problems,Concern about having enough practice,"practice problems,practice,enough practice,more practice",MorePractice,I'm worried I don't have enough practice problems.
+39,ST004,STUDY_METHODS,resource_utilization,Worry about using resources effectively,"resources,use resources,office hours,tutoring,help,utilize",UsingResources,I'm concerned about using office hours and tutoring effectively.
+40,ST005,STUDY_METHODS,self_teaching,Feeling need to teach self outside lecture,"teach myself,on my own,learn alone,independent,solo",TeachMyself,I feel like I have to teach myself outside of lecture.
+41,ST006,STUDY_METHODS,knowing_focus,Uncertainty about what to focus on,"what to study,what's important,what to know,focus on,prioritize",WhatToFocusOn,I'm not sure what's important to study.
+42,TR001,TRANSITION,transfer_student,Specific concerns as transfer student,"transfer student,transfer,community college,CC,transferred",TransferStudentLife,I have specific concerns as a transfer student.
+43,TR002,TRANSITION,first_college_course,First college course generally,"first college,first quarter,first year,freshman,new student",FirstCollegeCourse,This is my first college course.
+44,TR003,TRANSITION,first_college_chem,First college chemistry course,"first chem,first chemistry,college chem,new to chem",FirstCollegeChem,This is my first college chemistry course.
+45,TR004,TRANSITION,high_school_to_college,Adjusting from high school to college level,"high school,used to,adjusting to college,different from high school",AdjustingToCollege,I'm adjusting from high school to college level work.
+46,TR005,TRANSITION,professor_teaching_style,Adjusting to professor's teaching style,"teaching style,lecture style,professor teaches,way of teaching",TeachingStyle,I'm adjusting to the professor's teaching style.
+47,TR006,TRANSITION,new_environment,Adjusting to new campus/environment,"new campus,new environment,new school,adjusting to being",NewCampus,I'm adjusting to a new campus and environment.
+48,PF001,PERSONAL_FACTORS,confidence_issues,Lack of confidence in knowledge/abilities,"not confident,don't feel confident,lack confidence,unsure of myself",LackConfidence,I'm not confident in my abilities.
+49,PF002,PERSONAL_FACTORS,imposter_syndrome,Feeling like an outsider/not belonging,"outsider,don't belong,imposter,scary coming in,not for me",ImposterSyndrome,I feel like I don't belong here.
+50,PF003,PERSONAL_FACTORS,asking_for_help,Nervous about seeking help/office hours,"ask questions,speak up,office hours,intimidated to ask,scared asking",IntimidatedToAsk,I'm nervous about asking for help or going to office hours.
+51,PF004,PERSONAL_FACTORS,self_doubt,Questioning ability to succeed,"not smart enough,can I do this,ability,capable,if I can",CanIDoThis,I question whether I'm capable of succeeding.
+52,PF005,PERSONAL_FACTORS,motivation_burnout,Concerns about maintaining motivation,"motivation,burnout,tired,staying motivated,keep up",BurnoutRisk,I'm worried about staying motivated and burning out.
+53,LG001,LOGISTICS,course_organization,Confusion about course structure/requirements,"confusing,unclear,structure,organization,where things are,clear",CourseStructure,I'm confused about the course organization and requirements.
+54,LG002,LOGISTICS,assignment_tracking,Worry about keeping track of deadlines,"deadlines,due dates,assignments,track,keep up,remember when",KeepingTrack,I'm worried about keeping track of deadlines.
+55,LG003,LOGISTICS,lecture_following,Difficulty following lectures,"lecture,understand lecture,follow along,absorb,keep up in class",FollowingLectures,I have difficulty following along in lectures.
+56,LG004,LOGISTICS,class_size,Concerns about impersonal large class,"large class,big class,one on one,individual attention",LargeClass,I'm concerned about being in such a large class.
+57,LG005,LOGISTICS,zoom_online,Challenges with online/zoom format,"zoom,online,breakout rooms,virtual,remote",ZoomFatigue,I'm struggling with the online or zoom format.
+58,CM001,COMMUNICATION,english_proficiency,Nervous about English not being first language,"English,language,proficient,second language,ESL",EnglishNotFirst,I'm nervous about English not being my first language.
+60,CM003,COMMUNICATION,terminology,Struggling with chemical terminology,"terms,terminology,naming,nomenclature,vocabulary",ChemicalTerms,I struggle with chemical terminology and naming.
+61,RP001,REPUTATION,heard_difficult,Nervous due to course's difficult reputation,"heard,reputation,everyone says,people say,known as,said to be",HeardItsHard,I'm nervous because I've heard this course is difficult.
+62,RP002,REPUTATION,smart_friends_struggled,Friends struggled in course before,"smart friends,struggled before,others struggled,my friends",SmartFriendsStruggled,I'm worried because my smart friends struggled with this course.
+63,RP003,REPUTATION,horror_stories,Heard horror stories about the course,"horror stories,nightmare,terrible",HorrorStories,I've heard horror stories about this course.
+64,MT001,MISC,not_nervous,Express not being nervous,"not nervous,not worried,fine,confident,all good",NotNervous,I'm not really nervous about anything.
+65,MT002,MISC,everything,Nervous about everything,"everything,all of it",Everything,I'm nervous about everything.
+66,MT003,MISC,specific_topic,Nervous about specific named topic,"quantum,elimination,thermo,naming,mechanism specifically",SpecificTopic,"I'm nervous about a  (quantum mechanics x3, Elimination reactions, naming conventions for organic molecules, chemical equations, expected VS actual yield)".
+67,MT004,MISC,prior_negative_experience,Previous poor performance in similar course,"did poorly,struggled before,rough time,previous experience,bad experience",BadExperience,I had a rough time in a similar course before.
+68,MT005,MISC,nothing_specific,No specific concerns,"nothing specific,not really,not particularly,no,na",NothingSpecific,I don't have any specific concerns.

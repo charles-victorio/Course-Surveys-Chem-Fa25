@@ -1,0 +1,1029 @@
+,why_peer_learning,count,tags
+0,I did not know about it,24,did_not_knew
+1,I did not know about it.,20,did_not_knew
+2,I didn't know it existed,19,did_not_knew
+3,I didn't know about it.,17,did_not_knew
+4,I was not aware of it.,14,unaware_of_resource
+5,Did not know about it,14,did_not_knew
+6,I didn't know about it,13,did_not_knew
+7,No time,12,no_time
+8,I did not know it existed.,11,did_not_knew
+9,I did not know it existed,9,did_not_knew
+10,Didn't know about it,9,did_not_knew
+11,I didn’t know about it,8,did_not_knew
+12,Time conflict,8,schedule_conflict
+13,I was not aware of it,8,unaware_of_resource
+14,Was not aware of it,7,unaware_of_resource
+15,Didn’t know about it,7,did_not_knew
+16,I did not know it was happening,6,did_not_knew
+17,I don't know what that is,6,did_not_knew
+18,I didn't know that was a thing.,5,did_not_knew
+19,didn't know about it,5,did_not_knew
+20,Did not have time,4,no_time
+21,Didn't know it existed,4,did_not_knew
+22,Didn't have time,4,no_time
+23,I didn't know it was happening,4,did_not_knew
+24,I didn’t know about it.,4,did_not_knew
+25,I don't know what that is.,4,did_not_knew
+26,I did not know this was a thing.,4,did_not_knew
+27,I didn't know that was a thing,4,did_not_knew
+28,no time,4,no_time
+29,I wasn't aware of it.,4,unaware_of_resource
+30,I didn't know about this.,4,did_not_knew
+31,I did not know that it existed.,3,did_not_knew
+32,was not aware of it,3,unaware_of_resource
+33,I did not know this was an option,3,did_not_knew
+34,I did not know that was a thing.,3,did_not_knew
+35,Didnt know about it,3,did_not_knew
+36,Didn't know about it.,3,did_not_knew
+37,I didn’t know it existed.,3,did_not_knew
+38,I was not aware of the Chemistry peer learning.,3,unaware_of_resource
+39,I did not know it was a thing,3,did_not_knew
+40,Schedule conflict,3,schedule_conflict
+41,I didn’t know it existed,3,did_not_knew
+42,did not know about it,3,did_not_knew
+43,I was not aware.,3,unaware_of_resource
+44,Time conflicts,3,schedule_conflict
+45,didn't have time,3,no_time
+46,Not needed,3,did_not_need
+47,No,3,no_response
+48,I was not aware,3,unaware_of_resource
+49,I was unaware of it.,2,unaware_of_resource
+50,I didn't know about them.,2,did_not_knew
+51,I did not know about this,2,did_not_knew
+52,Not aware,2,unaware_of_resource
+53,I didn't know,2,did_not_knew
+54,I did not know this was a thing,2,did_not_knew
+55,I didn't know there was peer learning.,2,did_not_knew
+56,I did not know about the Chemistry peer learning.,2,unaware_of_resource
+57,didn't feel the need to,2,did_not_need
+58,I didn't feel the need to,2,did_not_need
+59,.,2,no_response
+60,I didn't need it,2,did_not_need
+61,Was not aware.,2,unaware_of_resource
+62,I didn't know that it was a thing.,2,did_not_knew
+63,My personal schedule interfered with me attending the peer learning.,2,schedule_conflict
+64,I didn't sign up for it at the start of the quarter.,2,other
+65,I was unaware of this,2,unaware_of_resource
+66,I didn't know about the chemistry peer learning.,2,did_not_knew
+67,I did not know that it was offered.,2,did_not_knew
+68,I didn't have time.,2,no_time
+69,I did not know about this resource.,2,did_not_knew
+70,I didn't have time,2,no_time
+71,Didn't need to,2,did_not_need
+72,didnt go,2,no_response
+73,I was unaware of it,2,unaware_of_resource
+74,Don’t know what that is,2,did_not_knew
+75,I was unaware it was happening,2,unaware_of_resource
+76,I don’t know what that is,2,did_not_knew
+77,I didn't know it was available,2,did_not_knew
+78,Hard to track down. would appreciate more announcements or communication,2,communication_issues
+79,I didn't know this was an option.,2,did_not_knew
+80,i did not know what that was,2,did_not_knew
+81,I didn’t know there was one.,2,did_not_knew
+82,na,2,no_response
+83,Didn't feel the need to.,2,did_not_need
+84,I did not have the time to do so.,2,no_time
+85,I was unaware.,2,unaware_of_resource
+86,Not aware of it,2,unaware_of_resource
+87,Did not want to,2,other
+88,Did not have space in schedule.,2,schedule_conflict
+89,I was not aware of the peer learning room.,2,unaware_of_resource
+90,Did not know about it.,2,did_not_knew
+91,I did not know that existed.,2,did_not_knew
+92,Unknown,2,no_response
+93,I did not find it necessary for this course,2,did_not_need
+94,Didn’t know,2,did_not_knew
+95,Didn't know it existed.,2,did_not_knew
+96,I was not aware of this program.,2,unaware_of_resource
+97,I did not know this existed,2,did_not_knew
+98,no,2,no_response
+99,"Dislike peer learning, past experience has been the blind leading the blind.",2,dislike_peer_learning+blind_leading_blind
+100,didn’t have time,2,no_time
+101,Did not know,2,did_not_knew
+102,I did not know there was Chemistry peer learning.,2,did_not_knew
+103,I did not have time to attend.,2,no_time
+104,Did not fit in schedule,2,schedule_conflict
+105,I did not know it was happening.,2,did_not_knew
+106,I did not have time.,2,no_time
+107,Didn’t know about them,2,did_not_knew
+108,Did not know that it was available,2,did_not_knew
+109,I forgot,2,forgot
+110,I didn’t know it was a thing,2,did_not_knew
+111,I forgot/didn't know about it.,2,forgot+did_not_knew
+112,No one is there,2,other
+113,I didn't know it was a thing,2,did_not_knew
+114,I do not know what that is.,2,did_not_knew
+115,I did not know that was a facility provided.,2,did_not_knew
+116,I don’t like studying with people,1,prefer_self_study+dislike_peer_learning
+117,Was not interested,1,other
+118,I didn't attend because I didn't know it was happening.,1,did_not_knew
+119,The TA 's in this class have no idea what is going on and are not helpful whatsoever.,1,ineffective_past
+120,I would attend office hours instead and I have a job and too many extracurriculars to make the allocated time.,1,used_office_hours+other_commitments+schedule_conflict
+121,I didn't know there was one.,1,did_not_knew
+122,I did not because I did not know of its existence.,1,did_not_knew
+123,Did not know it was an option .,1,did_not_knew
+124,Didn't know it was a thing,1,did_not_knew
+125,I didn't know about this actually. I was more focused on attending announced office hours because they were helpful (professor).,1,did_not_knew+used_office_hours
+126,"I didn't know peer learning was being offered in room MC3974. However, I did attend AAP Peer Learning sessions in Campbell Hall.",1,did_not_knew+attended_other_location
+127,Schedule conflicts,1,schedule_conflict
+128,I did not attend the Chemistry peer learning located in room MS3974 because I did not feel that it was necessary for my understanding of the chemistry concepts in Chemistry 14B.,1,did_not_need
+129,I wasn't aware that it existed.,1,unaware_of_resource
+130,I didn't have time and didn't know that was a thing.,1,no_time+did_not_knew
+131,I didn't know there was Chemistry Peer learning,1,did_not_knew
+132,i didn't know,1,did_not_knew
+133,I haven’t found time to attend.,1,no_time
+134,Not sure what that is.,1,did_not_knew
+135,I dont have time,1,no_time
+136,This professor's answers are always much more helpful and he is more accessible.,1,ta_better
+137,did not know or forgot it existed,1,did_not_knew+forgot
+138,didnt know it existed,1,did_not_knew
+139,I did not know this existed.,1,did_not_knew
+140,I didn't have time and also found myself not needing to attend.,1,no_time+did_not_need
+141,I didn’t know this existed. I did attend office hours though.,1,did_not_knew+used_office_hours
+142,Could not make it,1,schedule_conflict
+143,I didn’t feel like I needed to,1,did_not_need
+144,I didn't know that existed.,1,did_not_knew
+145,Don’t  know about it,1,did_not_knew
+146,Did not know that was a thing,1,did_not_knew
+147,"Extremely busy, unpredictable schedule that made it hard to find time to do it.",1,commuter_issues+busy_schedule
+148,I didn't know peer learning existed for my course until just now.,1,first_hearing
+149,Always had a schedule clash,1,schedule_conflict
+150,"I decided to just study on my own, and I didn't have the time.",1,prefer_self_study+no_time
+151,"I had no idea that Chemistry peer learning room in MS3974 was a resource available. If I had known, I would've taken greater advantage of this resource.",1,did_not_knew
+152,I have a busy schedule this quarter so I did not have time to utilize all synchronous resources.,1,busy_schedule+no_time
+153,Didn’t know about it and probably wouldn’t feel the need to.,1,did_not_knew+did_not_need
+154,I have a part time job and a commuter so it didnt match my schedule.,1,other_commitments+commuter_issues+schedule_conflict
+155,I did not know anything about it.,1,did_not_knew
+156,My free times did not align with the Peer Learning.,1,schedule_conflict
+157,I was not familiar with this opportunity but also attend OH often (and didn't feel it necessary to seek extra help),1,unaware_of_resource+used_office_hours+did_not_need
+158,I went to my TAs office hours and studied with friends instead,1,used_office_hours+used_study_groups
+159,"I did not know about them, but also I prefer studying and doing it by myself.",1,did_not_knew+prefer_self_study
+160,I sometimes don't believe they're very helpful.,1,not_helpful
+161,I was unaware of this resource,1,unaware_of_resource
+162,I did not know of the peer learning.,1,did_not_knew
+163,I didn’t know they existed,1,did_not_knew
+164,Didn’t feel it was necessary,1,did_not_need
+165,I don't generally like peer learning groups.,1,dislike_peer_learning
+166,I don't like peer learning groups.,1,dislike_peer_learning
+167,I was not aware of the event,1,unaware_of_resource
+168,I don't remember getting notified about it! That definitely could have been my own error.,1,communication_issues+forgot
+169,I dont have time.,1,no_time
+170,"I mostly understood the concepts that were taught in class and things I was unsure about, I was able to easily understand through reading the textbook or watching a video.",1,already_understanding+used_online_resources
+171,Did not know about this resource.,1,did_not_knew
+172,Busy quarter,1,busy_schedule
+173,I did not know it even existed. Never head any mention of it.,1,did_not_knew+communication_issues
+174,social anxiety,1,social_anxiety
+175,I typically don’t find peer learning helpful,1,not_helpful
+176,I attended plf sessions,1,attended_other_format
+177,I did not know about the peer learning sessions,1,did_not_knew
+178,Didn’t leave enough time in my course/extracurricular load to go to them.,1,no_time+other_commitments
+179,"I didn't think I needed to, as I grasped the material after absorbing all the given material and doing all the given practice problems.",1,did_not_need+already_understanding
+180,I did not know there was chemistry peer learning.,1,did_not_knew
+181,I didn't know it was a resource available to me,1,did_not_knew
+182,"I remember receiving as email about it at the beginning of year eyar but then forgot about it. Also, I had a busy schedule this quarter so was unable to attend",1,forgot+busy_schedule
+183,I did not know that this was a resource. I also already attend several TA office hours and have access to enough help.,1,did_not_knew+used_office_hours+did_not_need
+184,I was not aware that there was a chemistry peer learning location. I would have attend had I known.,1,unaware_of_resource
+185,i didn’t know that was happening,1,did_not_knew
+186,Scheduling/time,1,schedule_conflict
+187,I did not know this was avaliable.,1,did_not_knew
+188,Didn’t fit into my schedule.,1,schedule_conflict
+189,I have other resources that I rely on.,1,used_professor_sessions
+190,Was not aware,1,unaware_of_resource
+191,I did not know it was available. Also I prefer to study on my own or in small study groups with my friends,1,did_not_knew+prefer_self_study+used_study_groups
+192,Didn't feel that it was the best way to learn.,1,not_helpful
+193,didn't know what it was,1,did_not_knew
+194,didn’t know it happened tbh,1,did_not_knew
+195,I was not aware of this resource,1,unaware_of_resource
+196,Was not aware of session,1,unaware_of_resource
+197,Did not know about it and unsure what format it would be/if it would help me,1,did_not_knew+format_uncertainty
+198,I was not aware of the event.,1,unaware_of_resource
+199,Didn't know it was a thing.,1,did_not_knew
+200,I don't feel I need to.,1,did_not_need
+201,i didnt know it existed,1,did_not_knew
+202,I am unsure when the peer learning takes place.,1,format_uncertainty
+203,I didn't know this room existed,1,did_not_knew
+204,I did not know it was being offered.,1,did_not_knew
+205,I was unaware of peer learning services in MS3974.,1,unaware_of_resource
+206,I did not know about this opportunity.,1,did_not_knew
+207,I was too busy,1,busy_schedule
+208,I didn't know there was a chemistry peer learning group.,1,did_not_knew
+209,I didn't know what that was.,1,did_not_knew
+210,"I didn’t know where the Chemistry peer learning room was, and I didn’t have time to attend.",1,did_not_knew+location_issues+no_time
+211,I didn't even know it was an option!,1,did_not_knew
+212,I didnt know it was an option,1,did_not_knew
+213,I prefer going to office hours and was able to get all my questions answered there.,1,used_office_hours+ta_better
+214,Didn't need to; felt comfortable with reviewing the lecture materials and practice problems on my own.,1,did_not_need+already_understanding+prefer_self_study
+215,I did not feel the need to attend peer learning. The lecture and the discussion were sufficient for building understanding for me.,1,did_not_need+already_understanding
+216,I did not know of this event.,1,did_not_knew
+217,I didn't know that existed.,1,did_not_knew
+218,"I attend office hours and tutoring, but not the chemistry peer learning. I have never heard of that.",1,used_office_hours+used_other_tutoring+did_not_knew
+219,I did not attend the chemistry peer learning because I already felt confident in the course material.,1,already_understanding
+220,I dont find it an effective use of my time. I think work better alone/doing problems myself.,1,not_helpful+prefer_self_study
+221,I was not aware of this peer learning room.,1,unaware_of_resource
+222,did not know there was a peer learning.,1,did_not_knew
+223,I didn't know that there was a chemistry peer learning room.,1,did_not_knew
+224,"I am taking 20 units + work 20-30 hours a week, I generally don't have much time for peer learning/non-mandatory class sessions.",1,busy_schedule+other_commitments+no_time
+225,Didn't know about it and didn't think it would be very helpful.,1,did_not_knew+not_helpful
+226,"I did not feel I needed the extra review, I think I did better studying on my own.",1,did_not_need+prefer_self_study
+227,"I felt the need to seek out extra resources outside of class lecture, discussion, and office hours.",1,attended_this
+228,I do not know what that is :(,1,did_not_knew
+229,I didn't have time to attend,1,no_time
+230,I did not know it even existed,1,did_not_knew
+231,I went to TA office hours and found them sufficiently helpful,1,used_office_hours
+232,I did not feel like I needed it for this class,1,did_not_need
+233,I was not aware of this.,1,unaware_of_resource
+234,I never bothered to look out for any such program.,1,other
+235,I did because I was struggling with concepts and I also wanted to double check my work at times.,1,attended_this
+236,Hi,1,no_response
+237,I didn’t even know that was a thing,1,did_not_knew
+238,I didn't feel the need,1,did_not_need
+239,I was not aware of the peer learning sessions.,1,unaware_of_resource
+240,Peer learning sessions often conflict with my schedule + I usually am more efficient when studying on my own.,1,schedule_conflict+prefer_self_study
+241,"I wasn't aware of peer learning, but I have been going to the Organic Chemistry Tutoring club",1,unaware_of_resource+used_other_tutoring
+242,I did not feel it was necessary,1,did_not_need
+243,"I did not know that that was a thing. However, even with that knowledge, I don't think I would have attended because I feel fairly confident in the course material.",1,did_not_knew+already_understanding
+244,The peer learning sessions were not held at times that were convenient for me,1,schedule_conflict
+245,Was not aware of this service,1,unaware_of_resource
+246,I did not know it was available,1,did_not_knew
+247,Was not aware of this resource,1,unaware_of_resource
+248,I did not attend.,1,no_response
+249,I didnt have time in my schedule.,1,schedule_conflict
+250,I was not aware of a Chemistry peer learning/did not have the time,1,unaware_of_resource+no_time
+251,I did not have enough time,1,no_time
+252,I work as a tutor there,1,attended_this
+253,Did not have time.,1,no_time
+254,I did not know there was a Chemistry peer learning.,1,did_not_knew
+255,i prefer to use office hours with TA's,1,used_office_hours
+256,I did not attend because I did not have time,1,no_time
+257,I didn’t have time.,1,no_time
+258,"I attended TA office hours and directed my questions during those sessions. Additionally, I prefer to study alone rather than with a large group since I tend to get distracted during group study sessions.",1,used_office_hours+group_distraction
+259,I already had a study group I like to study with,1,used_study_groups
+260,Never knew this existed,1,did_not_knew
+261,I didn't even know there was a peer learning for this class.,1,did_not_knew
+262,The times conflicted with my other activities/classes,1,schedule_conflict
+263,I didn't know of it,1,did_not_knew
+264,"Did not need, just worked with friends and such",1,did_not_need+used_study_groups
+265,I was not familiar with it.,1,unaware_of_resource
+266,didn't go,1,no_response
+267,My schedule was too busy this quarter and I chose TA OH instead,1,busy_schedule+used_office_hours
+268,"I have not been informed, or have not been informed enough about the peer learning sessions!",1,communication_issues
+269,I did not know there was peer learning for this course.,1,did_not_knew
+270,"I was not aware of this resource, but also I did not need too much additional help with this course.",1,unaware_of_resource+did_not_need
+271,I was not aware of its existence.,1,unaware_of_resource
+272,I didn't know it existed!,1,did_not_knew
+273,Wasn't sure how to get there,1,location_issues
+274,I didn't know it existed.,1,did_not_knew
+275,I was not informed enough about the above opportunity.,1,communication_issues
+276,I was not aware of the peer learning.,1,unaware_of_resource
+277,I did not know about the peer learning room.,1,did_not_knew
+278,I did not even know it was happening.,1,did_not_knew
+279,Never had the time,1,no_time
+280,I was unaware that this peer learning meeting was being offered,1,unaware_of_resource
+281,My schedule did not allow me to come.,1,schedule_conflict
+282,My schedule did now allow me to participate.,1,schedule_conflict
+283,I had reached out at the beginning of the quarter to ask how to access the peer learning but received no response.,1,communication_issues+signup_issues
+284,I thought that it was only for people in the PEERS program.,1,eligibility_confusion
+285,I attended Office hours instead,1,used_office_hours
+286,No; I didn't know it existed.,1,did_not_knew
+287,I don't know what that is and have never heard of it before,1,did_not_knew
+288,I dont think I heard about this workshop.,1,did_not_knew
+289,It did not fit in my schedule,1,schedule_conflict
+290,The professor never mentioned it in class,1,communication_issues
+291,did not know about that,1,did_not_knew
+292,"I didn't feel like I needed it. I studied a lot through the textbook and practice questions, so I felt I was adequately prepared already.",1,did_not_need+already_understanding+used_online_resources
+293,Unhelpful,1,not_helpful
+294,I didn't have enough time with my schedule.,1,no_time+schedule_conflict
+295,I didn't know there was Chemistry peer learning,1,did_not_knew
+296,Don't feel like I need it,1,did_not_need
+297,The times have conflicted with other academic commitments.,1,schedule_conflict
+298,Prior conflicting academic committments.,1,schedule_conflict
+299,"I had a time conflict with another commitment, so I could not attend this time around.",1,schedule_conflict
+300,"I didn't know it existed, and I wouldn't have had the time to go that far anyway.",1,did_not_knew+no_time+location_issues
+301,Did not know it was hosted.,1,did_not_knew
+302,didn't know and didn't need help,1,did_not_knew+did_not_need
+303,Had enough resources without it.,1,did_not_need+used_professor_sessions
+304,Dont know the times,1,format_uncertainty
+305,I did not know that was a thing!,1,did_not_knew
+306,I thought the tutoring would be helpful for the exams.,1,attended_this
+307,I was having other issues that prevented my attendance.,1,personal_issues
+308,I didn't feel the need and I didn't have the time.,1,did_not_need+no_time
+309,I DiD not know this was even a thing,1,did_not_knew
+310,didnt know about it,1,did_not_knew
+311,grr,1,no_response
+312,not interested,1,other
+313,I was not able to attend the sessions due to my schedule.,1,schedule_conflict
+314,i dont know what that is,1,did_not_knew
+315,I was not aware that there was chemistry peer learning in MS3974.,1,unaware_of_resource
+316,"Scheduling issues, I chose to study with my friends",1,schedule_conflict+used_study_groups
+317,I did not know that this was available.,1,did_not_knew
+318,I did not go because I was already keeping up with the material on my own and did not feel like I needed extra help.,1,did_not_need+prefer_self_study
+319,I was not able to be there,1,schedule_conflict
+320,I don't know what this is,1,did_not_knew
+321,Didn't realize that was an option.,1,did_not_knew
+322,I did not attend this specific peer learning. I did however attend the facilitated peer learning offered through AAP in Campbell Hall.,1,attended_other_location
+323,I did not know that this was an option / available resource,1,did_not_knew
+324,I find self-study to be more time efficient.,1,prefer_self_study+ta_better
+325,"I was unaware of it, because I was not looking for help.",1,unaware_of_resource+did_not_need
+326,I was unaware of these sessions.,1,unaware_of_resource
+327,I did not know this resource was available.,1,did_not_knew
+328,I thought peer learning was only for people in AAP,1,eligibility_confusion
+329,i didn't struggle a lot with the material/practice problems we were provided,1,already_understanding
+330,Couldn't find a time in my schedule,1,schedule_conflict
+331,Not needed.,1,did_not_need
+332,I just did not have time to attend.,1,no_time
+333,I have not heard of the Chemistry peer learning in room MS3974,1,did_not_knew
+334,I felt that studying on my own was more worth my time since it's a lot of memorization.,1,prefer_self_study
+335,My current performance in the class was adequate enough to not warrant me to seek extra help.,1,doing_well
+336,I was not aware that peer learning was being offered.,1,unaware_of_resource
+337,i did not know that was a thing,1,did_not_knew
+338,I didn’t know what it was,1,did_not_knew
+339,I just never fund the time to go.,1,no_time
+340,I just never found the time to go.,1,no_time
+341,I did not attend because I did not know it was available to us.,1,did_not_knew
+342,did not know it was an available resource,1,did_not_knew
+343,I didn't have time to do it,1,no_time
+344,I had class conflicts,1,schedule_conflict
+345,I didn't feel a need to.,1,did_not_need
+346,I did not know about it and feel like I don't need to.,1,did_not_knew+did_not_need
+347,"I did not know about it, but also feel like I don't need it.",1,did_not_knew+did_not_need
+348,I was unaware there was Chemistry peeer learning in room MS 3974.,1,unaware_of_resource
+349,I like to receive extra help in guiding my stidying sometimes I miss a concept or didn't grasp it entirely and with peer learning I know we go over everything in lecture and they provide extra practice problems as well so more study material!,1,found_helpful
+350,"I think I just happened to make plans with a study group at the time, so I chose the group over the peer learning environment.",1,used_study_groups
+351,Sessions were held at times that I was not available.,1,schedule_conflict
+352,I did not feel the need for it this quarter.,1,did_not_need
+353,I did not feel the need for it.,1,did_not_need
+354,I attended PLF sessions for this class 2 times a week instead.,1,attended_other_format
+355,I attended PLF sessions for this course 2 times a week instead.,1,attended_other_format
+356,It was outside of my usual availability.,1,schedule_conflict
+357,My other class has time conflict with it,1,schedule_conflict
+358,My other classes have time conflict with it,1,schedule_conflict
+359,I never had the time in my daily schedule.,1,no_time
+360,Peer learning did not fit into my schedule,1,schedule_conflict
+361,"Do not know what it is, nor did I know it existed.",1,did_not_knew
+362,"I was unaware of it, but also uninterested.",1,unaware_of_resource+other
+363,time didn't work with my schedule,1,schedule_conflict
+364,I forgot about it,1,forgot
+365,I didnt have time,1,no_time
+366,I had a time conflict,1,schedule_conflict
+367,To better my understanding on the topics thought in the course,1,attended_this
+368,I attended the peer learning room because even if I am confident in the class I always find it helpful to get extra support and more practice so that I can do better on the homework/tests.,1,found_helpful
+369,I didn't know that was an option,1,did_not_knew
+370,"I forgot to put the dates on my calendar, and my schedule got very hectic so I missed it.",1,forgot+busy_schedule
+371,"I didn't put the date into my calendar and due to my schedule, I forgot about it and missed it.",1,forgot+busy_schedule
+372,I attended different learning resources,1,used_professor_sessions
+373,"I did not know about it, but even if I had, I don't think I would have attended since I don't need the extra help.",1,did_not_knew+did_not_need
+374,I did not wish to attend.,1,other
+375,Attended TA office hours as the maine ay to seek help.,1,used_office_hours
+376,"I was not aware of it, only the online Ochem tutoring which I tried.",1,unaware_of_resource+used_other_tutoring
+377,Time interference,1,schedule_conflict
+378,I don't have the time to.,1,no_time
+379,"I didn't know there was a peer learning session. But also, I went to professor office hours and TA hours when I had questions on the homework or on exams.",1,did_not_knew+used_office_hours
+380,"I didn't know about it, but even if I did, I probably wouldn't have attended anyway because I don't have the time.",1,did_not_knew+no_time
+381,didn't know about or need it,1,did_not_knew+did_not_need
+382,I didn’t know it exists.,1,did_not_knew
+383,I wasn’t aware.,1,unaware_of_resource
+384,I wanted to but it got full after first enrollment.,1,signup_issues
+385,Attended labs which were well ran by the TA,1,used_office_hours
+386,To get extra help/make sure i was doing the homework correctly,1,attended_this
+387,It did not fit into my schedule.,1,schedule_conflict
+388,"It never really crossed my mind, I probably should have",1,too_lazy
+389,I don't have time and I am most efficiently studying when I am in my own space,1,no_time+prefer_self_study
+390,I didn't know it was occuring.,1,did_not_knew
+391,I did not attend because I did not know peer learning was a thing. I only knew of TA office hours for extra help.,1,did_not_knew+used_office_hours
+392,i dont have much time to attend,1,no_time
+393,I felt no need to.,1,did_not_need
+394,No time. Needed to go to work and do other extracurrilars.,1,no_time+other_commitments
+395,I was not aware of them,1,unaware_of_resource
+396,I didn't think that I needed it,1,did_not_need
+397,I did not remember that it was happening.,1,forgot
+398,I didn't know this was available????,1,did_not_knew
+399,I was very preoccupied with many courses this quarter Andy plate was to full,1,busy_schedule
+400,I was not able to join because of schedule conflicts.,1,schedule_conflict
+401,Thanks you! It was great,1,found_helpful
+402,I had not been aware that there had been peer learning Chemistry available for my specific course. I have however attended AAP classes for chemistry.,1,unaware_of_resource+attended_other_location
+403,I was not aware that there was peer learning available for my course in that room. I have however attended PLF lessons through AAP.,1,unaware_of_resource+attended_other_format
+404,I like peer learning,1,found_helpful
+405,I needed extra support as a transfer student that last took organic chemistry more a year ago.,1,attended_this
+406,For help with midterm and final concept review.,1,attended_this
+407,didn’t know about this,1,did_not_knew
+408,It is hard to find time to go to one. I also have not heard of them much,1,no_time+did_not_knew
+409,I wasn't aware it was an available,1,unaware_of_resource
+410,Not aware of it but also wasn't really looking for help.,1,unaware_of_resource+did_not_need
+411,I did not know the chemistry peer learning was available.,1,did_not_knew
+412,"I wasn't sure about the format of the peer learning sessions, and I also did not find the time to go to them.",1,format_uncertainty+no_time
+413,Tutors were so friendly and helpful :),1,found_helpful
+414,Could not make the time,1,schedule_conflict
+415,I've never heard of that before.,1,did_not_knew
+416,idk what that is,1,did_not_knew
+417,Unavailable space to join.,1,signup_issues
+418,Chemistry peer learning sessions did not fit in well with my schedule.,1,schedule_conflict
+419,hard to find,1,location_issues
+420,I did not have the time to go to peer learning.,1,no_time
+421,N/A I have plf for chem 14D in Campbell hall,1,attended_other_format
+422,The timing didn’t fit my schedule,1,schedule_conflict
+423,I don’t know what this is,1,did_not_knew
+424,Didn't fit in schedule,1,schedule_conflict
+425,I attended to broaden some of my chem 14B content due to not taking it for a while.,1,attended_this
+426,Did not have time with my other courses,1,no_time+schedule_conflict
+427,I was unable to with my schedule,1,schedule_conflict
+428,I didn’t know about this resource,1,did_not_knew
+429,"I did not know it existed. When I needed help, I just went to office hours and it worked for me.",1,did_not_knew+used_office_hours
+430,I was not aware of this opportunity.,1,unaware_of_resource
+431,I had other commitments hat conflicted,1,other_commitments+schedule_conflict
+432,I didnt know,1,did_not_knew
+433,It did not fit my schedule because of work and other commitments,1,schedule_conflict+other_commitments
+434,wasn't aware of it,1,unaware_of_resource
+435,I felt like I did not need additional support,1,did_not_need
+436,I felt like I did not need additional support.,1,did_not_need
+437,"Don't have time, I work to support myself and my family, as well as have an internship. I am also heavily involved in my faith so I'm never on campus when peer learning is happening. I went once on a random day off but I wish I had gone more it was very helpful.",1,no_time+other_commitments+commuter_issues+found_helpful
+438,I didn’t know it existed/I never felt the need to seek outside help,1,did_not_knew+did_not_need
+439,I wasn't really aware it existed.,1,unaware_of_resource
+440,Didn’t feel like I need,1,did_not_need
+441,"Didn't have time. I would either have schedule conflicts or had to focus on other class homework, so I could not attend the peer learning sessions.",1,no_time+schedule_conflict+other_commitments
+442,I don’t study well in groups.,1,group_distraction
+443,Scheduling issues,1,schedule_conflict
+444,I did not see the need to; I have my own sources for studying and study with friends. I attend discussion every week and seek help at TA office hours as well.,1,did_not_need+used_study_groups+used_office_hours
+445,i don't know what that is,1,did_not_knew
+446,I found the most help at office hours with Dr. Henary or my TA. I did not feel the need to seek extra help from peer learning. I have many friends to also ask for help.,1,used_office_hours+did_not_need+used_study_groups
+447,Couldn't fit into the schedule/didn't know about it at first,1,schedule_conflict+did_not_knew
+448,I wasn't completely aware of the time / location of the peer learning?,1,format_uncertainty+unaware_of_resource
+449,Didn’t have time,1,no_time
+450,I didn’t know we had one,1,did_not_knew
+451,I did not believe I needed to to earn an A in this class.,1,did_not_need
+452,I didn't know about this program.,1,did_not_knew
+453,I hadn't heard of it and I don't know what that is.,1,did_not_knew
+454,Haven't had the need,1,did_not_need
+455,I don’t like working with groups.,1,dislike_peer_learning
+456,I did not know this was available.,1,did_not_knew
+457,I did not need it,1,did_not_need
+458,I didnt know there was one...,1,did_not_knew
+459,I prefer studying on my own and attended the UA sessions provided by Lavelle.,1,prefer_self_study+attended_other_format
+460,Did not know they were happening,1,did_not_knew
+461,"I could not make it, due to time conflic and commute travel.",1,schedule_conflict+commuter_issues
+462,I attended UA workshops instead,1,attended_other_format
+463,Office hours was really helpful,1,used_office_hours
+464,I attended Step ups and workshops.,1,attended_other_format
+465,"I did not feel the need to attend the peer learning, and I also found myself doing fairly well while studying on my own.",1,did_not_need+doing_well+prefer_self_study
+466,I went to other review sessions more focused on what I needed to work on most.,1,attended_other_format
+467,Didn't know about this opportunity,1,did_not_knew
+468,"I didn't have time to attend it. However, my friends and I did our own chemistry peer learning before the exams to clear up any questions.",1,no_time+used_study_groups
+469,I don't know what is that. I attended discussion sections and review exams for midterms.,1,did_not_knew+used_professor_sessions
+470,No. no one said anything regarding this sessions.,1,communication_issues
+471,didn’t know about it,1,did_not_knew
+472,I wanted extra practice for the midterm.,1,attended_this
+473,I just don’t feel the need to,1,did_not_need
+474,i just don’t need to,1,did_not_need
+475,I didn't feel a need to attend because I already had an established study group with people that I met in my lecture.,1,did_not_need+used_study_groups
+476,I didn't know this resource,1,did_not_knew
+477,What even is that?,1,did_not_knew
+478,went to step up sessions instead,1,attended_other_format
+479,I did not have time,1,no_time
+480,I did not need to,1,did_not_need
+481,Found self-studying more effective.,1,prefer_self_study+ta_better
+482,I didnt have time.,1,no_time
+483,it was helpful!,1,found_helpful
+484,I was not entirely aware of it.,1,unaware_of_resource
+485,I did not attend because I had other commitments like studying or doing homework for other classes.,1,other_commitments+schedule_conflict
+486,I am not aware of what the Chemistry peer learning is,1,unaware_of_resource
+487,Didn't need the extra help,1,did_not_need
+488,"was not aware of it, and could not attend as well",1,unaware_of_resource+no_time
+489,I have never felt the need.,1,did_not_need
+490,I was not very aware of the peer learning,1,unaware_of_resource
+491,"I attended the step-up and workshops organized by Dr. Lavelle every week, which has helped me with my learning.",1,attended_other_format
+492,I attended workshop and step-up sessions that Dr. Lavelle had organized.,1,attended_other_format
+493,Did not know we were able to attend.,1,did_not_knew
+494,"I really didn't know that chemistry peer learning was being offered, I mostly stuck to the additional help sessions that my professor had arranged for us.",1,did_not_knew+used_professor_sessions
+495,I didn't feel the need to go.,1,did_not_need
+496,I did not find time in my schedule.,1,schedule_conflict
+497,I did not attend because I did not feel the need to receive external help with chemistry as I believed I could do it myself.,1,did_not_need+prefer_self_study
+498,"This quarter, I really struggled with my mental health, burnout from my summer job, and balancing living in an apartment for the first time; I found myself struggling to balance school, apartment life, and relaxing. Also I felt that I understood the course material enough where I didn't have to go.",1,personal_issues+busy_schedule+already_understanding
+499,I didn't attend because I have no idea what that is.,1,did_not_knew
+500,I'm having a hard time working through my schedule.,1,schedule_conflict
+501,I thought it would be best to make the most of the opportunities given,1,attended_this
+502,"I was unaware of the times and location. of this program, I may have missed the details if they were given in class or present on BruinLearn.",1,format_uncertainty+communication_issues
+503,It conflicted with a class I had.,1,schedule_conflict
+504,I was unaware of peer learning in room MS3974. I do attend the step-up/workshop sessions Dr. Lavelle creates for his students.,1,unaware_of_resource+attended_other_format
+505,I didn't know about the option to attend.,1,did_not_knew
+506,Because I work better when explaining things with people.,1,attended_this
+507,It was hard to find. Only mentioned by professor once,1,location_issues+communication_issues
+508,Why spend my time there at a possibly unrelated session instead of study at home on my own?,1,not_helpful+prefer_self_study
+509,I did not know about the peer learning,1,did_not_knew
+510,I didn’t know this existed,1,did_not_knew
+511,Was not aware of a chemistry peer learning group,1,unaware_of_resource
+512,I got an email saying I was not eligible to attend peer learning and did not qualify for it.,1,eligibility_confusion
+513,Did not feel the need to,1,did_not_need
+514,I didn't want to go alone.,1,social_anxiety
+515,I did the practice problems but didn't attend in person.,1,other
+516,Never found it necessary to attend,1,did_not_need
+517,I didnt know that was available,1,did_not_knew
+518,"Was not aware of it, and am not sure if I’m eligible to attend",1,unaware_of_resource+eligibility_confusion
+519,Time conflict.,1,schedule_conflict
+520,I did not know what that was,1,did_not_knew
+521,"I did not feel the need for it, but if I was ever struggling, then I would have attended.",1,did_not_need
+522,I at no point in the course was struggling.,1,already_understanding
+523,I commute so finding sections that were available while I was on campus was difficult.  TA officer hours were more accessible,1,commuter_issues+used_office_hours
+524,I didn't even know they were a thing.,1,did_not_knew
+525,The sessions were held at times where I had other classes,1,schedule_conflict
+526,I did not know it was an available resource,1,did_not_knew
+527,I would not attend the chemistry peer learning because i would attend office hours every week with the courses TA’s.,1,used_office_hours+ta_better
+528,I did not hear about it.,1,did_not_knew
+529,I didn't know that it was happening,1,did_not_knew
+530,I attended chemistry peer learning at Campbell Hall to receive additional support on the material covered in the course.,1,attended_other_location
+531,I did not attend peer learning in the specific room but did attend other peer learnings at other locations,1,attended_other_location
+532,I didn't make time in my schedule to go,1,no_time+schedule_conflict
+533,did not feel the need,1,did_not_need
+534,I was not aware of the peer learning in room MS3974,1,unaware_of_resource
+535,I had no idea that was a thing.,1,did_not_knew
+536,I went to office hours instead.,1,used_office_hours
+537,I was not aware of the Chemistry peer learning in the MS building.,1,unaware_of_resource
+538,Didn't feel like I needed it,1,did_not_need
+539,I attended to see if they were helpful.,1,attended_this
+540,"attended other sessions, just not ms3974",1,attended_other_location
+541,I did not feel the need to.,1,did_not_need
+542,"If peer learning is referring to UA sessions, then yes. It was helpful to have extra practice problems, especially before midterms, and also gain insight from students who took the class before.",1,attended_other_format+found_helpful
+543,Dr. Lavelle has many UA sessions that I found helpful and didn't think that Chemistry peer learning would be more benefical.,1,attended_other_format+ta_better
+544,I was too busy with workloads relative to other classes.,1,busy_schedule
+545,"It was not offered this course, if it was it did not show up for me",1,did_not_knew
+546,Don't know about it,1,did_not_knew
+547,I didn't know there was such peer learning,1,did_not_knew
+548,It was not offered,1,did_not_knew
+549,I was unaware of the peer learning sessions.,1,unaware_of_resource
+550,I did not know about this peer learning.,1,did_not_knew
+551,No time and didn’t know about them,1,no_time+did_not_knew
+552,I did not find significantly challenging questions that I could not resolve by studying on my own.,1,already_understanding+prefer_self_study
+553,I didn't feel like I need to.,1,did_not_need
+554,I was not available.,1,schedule_conflict
+555,I didn't find my attendance at peer learning to be necessary for success in this course.,1,did_not_need
+556,I prefer going to TA office hours or the professor's office hours and I prefer to study by myself since I tend to get distracted in groups.,1,used_office_hours+prefer_self_study+group_distraction
+557,I was not aware of what times it was open for.,1,format_uncertainty
+558,"I didn't find it necessary, but in the future I will definitely attend",1,did_not_need
+559,Did not feel I needed it at the time.,1,did_not_need
+560,No time this quarter,1,no_time
+561,I did not have the time to go.,1,no_time
+562,Found it hard to fit into my schedule.,1,schedule_conflict
+563,Didnt have time,1,no_time
+564,I did not know about it and I also prefer to study by myself.,1,did_not_knew+prefer_self_study
+565,Did not qualify,1,eligibility_confusion
+566,I am not interested in peer learning.,1,other
+567,I felt as though the textbook and the practice problems were sufficient for me to understanding everything and get enough practice for the exam.,1,used_online_resources+already_understanding
+568,I didn't know.,1,did_not_knew
+569,I was not informed that they existed.,1,communication_issues
+570,I didn't know it was a thing until now.,1,did_not_knew+first_hearing
+571,I did not know it was occuring,1,did_not_knew
+572,I did not know this was an option. Is this like tutoring or more like office hours?,1,did_not_knew+format_uncertainty
+573,I was not aware we had that option.,1,unaware_of_resource
+574,I wanted to learn more prior to the exam.,1,attended_this
+575,Was not needed for this class,1,did_not_need
+576,I needed extra help studying for midterm 2.,1,attended_this
+577,I prefer to go to office hours because it helps me learn more about my prof's style,1,used_office_hours
+578,I actually did not know this resource existed until this survey.,1,first_hearing
+579,I did not find the need,1,did_not_need
+580,I wasn't aware that was available,1,unaware_of_resource
+581,Did not need it.,1,did_not_need
+582,I never really heard/ knew about it.,1,did_not_knew
+583,I was not aware that it existed.,1,unaware_of_resource
+584,Conflict with club meeting,1,schedule_conflict+other_commitments
+585,I didn't know about the Chemistry peer learning.,1,did_not_knew
+586,didn't know it existed,1,did_not_knew
+587,I did not know that this resource existed.,1,did_not_knew
+588,"I am able to study on my own for this course and when I need help, I go to office hours",1,prefer_self_study+used_office_hours
+589,I wasn't aware of it and I had too many other classes and workload to also attend office hours and/or optional study sessions.,1,unaware_of_resource+busy_schedule+no_time
+590,I did not know that was an option.,1,did_not_knew
+591,"I did not know it was a resource until the previous survey, and then I forgot about it. I also didn't know where to find information about this resource aside from visiting the room in person.",1,first_hearing+forgot+communication_issues
+592,"I don’t remember receiving info about it, I probably did but forgot.",1,forgot+communication_issues
+593,Didn’t work with my schedule.,1,schedule_conflict
+594,Not interested,1,other
+595,I was unaware of the peer learning offered,1,unaware_of_resource
+596,Not worth my time,1,not_helpful+no_time
+597,I did not know there was a Chemistry Peer learning session.,1,did_not_knew
+598,I was busy with my other activities and classes.,1,busy_schedule+other_commitments
+599,n/a this question was not in this survey,1,no_response
+600,"I did not know that this resource was available to assist with CHEM30BL, so I focused my efforts towards studying on mine and attending instructor + TA office hours every once in a while.",1,did_not_knew+prefer_self_study+used_office_hours
+601,"There was limited capacity for the peer learning sections, so I was restricted from signing up.",1,signup_issues
+602,I feel more comfortable studying by myself or with my friend group. I don't work as well in large groups or with others I do not know well.,1,prefer_self_study+used_study_groups+group_distraction
+603,I attended some online office hours,1,used_office_hours
+604,I don't think I ever heard of this opportunity.,1,did_not_knew
+605,I was not aware of the Chemistry peer learning program,1,unaware_of_resource
+606,I was not aware there was a peer learning room.,1,unaware_of_resource
+607,I don't think it was necessary.,1,did_not_need
+608,I had a hectic schedule that did not allow for me to attend,1,busy_schedule
+609,I went to TA and LA office hours instead.,1,used_office_hours
+610,i did not know about them,1,did_not_knew
+611,I was not aware of Chemistry Peer Learning.,1,unaware_of_resource
+612,I did not know what the Chemistry peer learning was; I did not know that was a choice for academic assistance.,1,did_not_knew
+613,I couldnt make room to attend,1,schedule_conflict
+614,Time overlap with other classes/clubs/commitments,1,schedule_conflict+other_commitments
+615,I attend all step ups that Professor Lavelle provides,1,attended_other_format
+616,Had no idea that was a thing,1,did_not_knew
+617,I found the UA sessions to be extremely helpful.,1,attended_other_format+found_helpful
+618,I'm a commuter student and it's really hard to plan that out because of how my school schedule is.,1,commuter_issues+schedule_conflict
+619,"I did not know there was chemistry peer learning, no one ever told me.",1,did_not_knew+communication_issues
+620,wasnt aware of it,1,unaware_of_resource
+621,"I had a few friends and we study this course together, and also my TA and LA are helpful enough so.",1,used_study_groups+used_office_hours
+622,I dont know about it,1,did_not_knew
+623,I did not know there was one.,1,did_not_knew
+624,I don't recall knowing about this peer learning.,1,did_not_knew
+625,I had conflicting sessions for other classes.,1,schedule_conflict
+626,I would never have been able to come to the sessions prepared with questions that were worth asking and would actually help me learn because I had questions about everything as I did not complete any chemistry courses before this class. It would be more effective to complete all homework first to gain a general understanding then attend a session.,1,format_uncertainty+already_understanding
+627,It was not on my radar.,1,did_not_knew
+628,I was unaware of a peer learning room where tutoring takes place given I am a transfer student.,1,unaware_of_resource
+629,Didn't feel the need.,1,did_not_need
+630,I didn’t know we had Chemistry peer learning,1,did_not_knew
+631,I didn't think it was a resource I needed because I had other peers to work with on my own time and the professor and TA were able to answer most of my questions in lecture and section,1,did_not_need+used_study_groups+used_office_hours
+632,I'm not in AAP so I can't do peer tutoring sessions,1,eligibility_confusion
+633,I preferred to study and review on my own.,1,prefer_self_study
+634,I didn't know what that is,1,did_not_knew
+635,"I believe I was well supported by the office hours and lectures in this course, and felt like I had already grasped the material accurately!",1,used_office_hours+already_understanding
+636,I was unaware of this Chemistry peer learning opportunity.,1,unaware_of_resource
+637,I was doing peer learning through PLF in Campbell Hall.,1,attended_other_format
+638,I didn't know we had them.,1,did_not_knew
+639,The times conflicted with either class or my other tutoring sessions.,1,schedule_conflict
+640,I did not know that existed,1,did_not_knew
+641,I feel like I can teach it to myself for the most part.,1,prefer_self_study+already_understanding
+642,The times for the peer learning sessions conflicted with times for other tutoring sessions I had.,1,schedule_conflict
+643,I did not know about it or think I needed it.,1,did_not_knew+did_not_need
+644,Didnt know,1,did_not_knew
+645,I did not know this was offered.,1,did_not_knew
+646,"Omg I did not know ! I would have benefitted SO much from this. I don't know if I missed the announcement or email, please have a resource on the canvas homepage because sometimes I felt on my own in this course.",1,first_hearing+communication_issues
+647,I was not aware there were these peer learning rooms!,1,unaware_of_resource
+648,don’t know what that is,1,did_not_knew
+649,I did not know of it so I did not attend,1,did_not_knew
+650,I was not aware it existed.,1,unaware_of_resource
+651,"I felt that the help I had received in office hours and the study group I worked with were sufficient, but I was open to attending peer learning sessions if needed.",1,used_office_hours+used_study_groups+did_not_need
+652,I wasn’t able to make any of the sessions.,1,schedule_conflict
+653,I did not know it even existed.,1,did_not_knew
+654,Did not align with my schedule.,1,schedule_conflict
+655,"I struggled to find more information about the program and access it. Although professor DeWeese mentioned it in a class, when I tried to register for the peer advancement program, my.ucla was either down or not letting me. However, if given the opportunity and better guidance to access this resource, I would be greatly interested in using it.",1,communication_issues+signup_issues
+656,I did not even know that existed,1,did_not_knew
+657,I had no idea they existed,1,did_not_knew
+658,I was struggling with the material more than YouTube could provide help with.,1,attended_this
+659,I did not know it existed + didn't feel like I needed it,1,did_not_knew+did_not_need
+660,Conflict,1,schedule_conflict
+661,I was unaware of the chemistry peer learning opportunity.,1,unaware_of_resource
+662,No. I did not need to,1,did_not_need
+663,I was not aware of of this opportunity.,1,unaware_of_resource
+664,I never thought I needed it to succeed in the class.,1,did_not_need
+665,It did not fit into my schedule,1,schedule_conflict
+666,I did not attend because I either had time conflicts or felt that the location was inconvenient. I also did not feel like I really needed the help.,1,schedule_conflict+location_issues+did_not_need
+667,"Not, because I had my own study group! :)",1,used_study_groups
+668,I was not aware that there was chemistry peer learning there.,1,unaware_of_resource
+669,I did not know that was a thing,1,did_not_knew
+670,I was not aware of this peer learning program.,1,unaware_of_resource
+671,I had my classmates to help me,1,used_study_groups
+672,I didn’t know much about the program.,1,did_not_knew
+673,i didn’t know,1,did_not_knew
+674,"I went to workshops and review sessions, I'm not too sure what MS3974 is referring to.",1,attended_other_format+location_issues
+675,Didn't feel like I needed it.,1,did_not_need
+676,Not fitting to my schedule,1,schedule_conflict
+677,"I never found time to go, but I know I can do better next quarter.",1,no_time
+678,I felt the UA sessions were enough.,1,attended_other_format+did_not_need
+679,I think I might have been unaware of the peer learning or already was able to get help through step-up sessions and workshops.,1,did_not_knew+attended_other_format+did_not_need
+680,Just never felt the need. I study fine on my own and with my friends.,1,did_not_need+prefer_self_study+used_study_groups
+681,"I attended UA sessions in Young Hall,",1,attended_other_location
+682,I like to stuyd independently and utilize Chemistry Community for help.,1,prefer_self_study+used_online_resources
+683,I did not feel the need to attend as I was able to get help from other sources instead.,1,did_not_need+used_professor_sessions
+684,I did not attend the peer learning because I prefer to use my own study methods on my own.,1,prefer_self_study
+685,"I was very busy, kept forgetting, and was only confused on certain topics which I was able to clarify using the textbook or other resources.",1,busy_schedule+forgot+used_online_resources
+686,"I had forgotten to take advantage of this, I feel that advertising this more to students would be beneficial. I mostly visited the step-up and workshop sessions for our course.",1,forgot+communication_issues+attended_other_format
+687,I had a reasonabley busy schedule this quarter and I generally prefer to learn/study on my own and ask questions as needed. I do beleve that this opportunity could have been helpful for some topics in this course.,1,busy_schedule+prefer_self_study
+688,I didn't know it was happening.,1,did_not_knew
+689,I did not because I did not feel it was necessary,1,did_not_need
+690,It did not fit my schedule and I was afraid of attending alone.,1,schedule_conflict+social_anxiety
+691,I didnt know it existed,1,did_not_knew
+692,Dirnt realise it existed,1,did_not_knew
+693,"I do not think i payed attention too much on the exisitance of this class comparing to other abundant resources, UA, TA, Workshops etc.",1,did_not_knew+used_professor_sessions
+694,I did not because I had a very packed schedule.,1,busy_schedule
+695,"I was able to get enough help from my TA and Chemistry Community, which is an online discussion forum designed by Dr. Lavelle.",1,used_office_hours+used_online_resources
+696,Textbook problems helped me a lot on practicing skills on calculations and understanding concepts. The professor's chemistry community is also very useful when I want to seek help with explanations to specific difficulties.,1,used_online_resources
+697,I was unaware that this was something offered.,1,unaware_of_resource
+698,I got all the help I needed through other resources.,1,did_not_need+used_professor_sessions
+699,I did not know peer learning existed.,1,did_not_knew
+700,I was too busy.,1,busy_schedule
+701,I didn’t feel the need to get help.,1,did_not_need
+702,I did not have the time,1,no_time
+703,"I did not realize that those peer learning session existed, most likely because I was not paying attention when it was announced.",1,did_not_knew+forgot
+704,I have no clue what that is,1,did_not_knew
+705,"I was not aware of the Chemistry peer learning, I would have attended if I was told about this opportunity.",1,unaware_of_resource+communication_issues
+706,"I wasn’t aware of the session; additionally, I have my own strategies for studying that I like to utilize on my own.",1,unaware_of_resource+prefer_self_study
+707,Had other commitments.,1,other_commitments
+708,Did fine without it,1,doing_well
+709,I did not know.,1,did_not_knew
+710,Never heard about it,1,did_not_knew
+711,"Sometimes, I did to better understand the topic",1,attended_this
+712,"Although the amount of help was fantastic if I ever needed it, I found myself being able to succeed without needing to access that particular resource.",1,did_not_need
+713,I attended the UA and TA office hours instead.,1,attended_other_format+used_office_hours
+714,I was too nervous to,1,social_anxiety
+715,I was not aware of the Chemistry peer learning sessions,1,unaware_of_resource
+716,I was intimidated to go by myself and didnt know where to fid the information,1,social_anxiety+communication_issues
+717,I didn't attend because I didn't feel that it was too necessary for me.,1,did_not_need
+718,i don't know,1,no_response
+719,I went to other sessions and workshops which worked with my schedule a bit better.,1,attended_other_format+schedule_conflict
+720,I did not think it would be beneficial to me,1,not_helpful
+721,i dont qualify,1,eligibility_confusion
+722,I did not think I needed to attened.,1,did_not_need
+723,I was busy,1,busy_schedule
+724,I commute so it’s hard to fit things other than my set classes into my schedule.,1,commuter_issues+schedule_conflict
+725,I was not aware of this event.,1,unaware_of_resource
+726,I'm unfamiliar with the peer learning room in MS3974 and did not have any questions for them.,1,unaware_of_resource+did_not_need
+727,I feel I learn better on my own.,1,prefer_self_study
+728,Never took the extra time to go,1,no_time
+729,I didn't know that existed,1,did_not_knew
+730,I was not aware of this,1,unaware_of_resource
+731,DIDNT know they were a thing,1,did_not_knew
+732,I preferred to study in smaller groups with people I knew or on my own.  Zoom was also easier for me.,1,prefer_small_groups+prefer_self_study
+733,I am confident enough about my capability in succeeding in the course.,1,doing_well
+734,Knew it would be helpful but never got around to actually going,1,found_helpful+too_lazy
+735,I formed study groups with students instead,1,used_study_groups
+736,Did not know that there was peer learning sessions held there.,1,did_not_knew
+737,"The online format of discussion kind of set the tone for me this quarter in such a way that I did not feel motivated to attend in-person peer learning sessions. Also, I have been performing very well throughout the quarter, so I did not feel there was much I needed to clarify outside of class.",1,busy_schedule+doing_well
+738,Couldn't fit in schedule,1,schedule_conflict
+739,"Did not know about it, forgot.",1,did_not_knew+forgot
+740,"It's a helpful resource, but unfortunately, I didn't have time for it.",1,found_helpful+no_time
+741,Did not have the time.,1,no_time
+742,I never checked the time for it.,1,format_uncertainty+too_lazy
+743,I had other commitments,1,other_commitments
+744,I used other resources,1,used_professor_sessions
+745,I have peer learning with AAP,1,attended_other_location
+746,I was not aware of it but I did download the worksheets to complete .,1,unaware_of_resource+other
+747,I did not feel the need to go to the peer learning room.,1,did_not_need
+748,I went to UA sessions in young hall.,1,attended_other_location
+749,too far from dorms,1,location_issues
+750,I do not know much about it honestly.,1,did_not_knew
+751,Did not know it existed,1,did_not_knew
+752,I was unaware of its timings and locations in order to attend. I may have missed the information if it was presented somewhere.,1,format_uncertainty+communication_issues
+753,I did not know of its timings or location to be able to participate. I may have missed this information if it was provided in class or on the BruinLearn course website.,1,format_uncertainty+communication_issues
+754,"I did not have the time to attend the learning sessions in person, only zoom.",1,no_time
+755,I did not know that was there.,1,did_not_knew
+756,I did not know about this resource or I would have : ),1,did_not_knew
+757,I am unfamiliar with the peer learning sessions.,1,unaware_of_resource
+758,I was sick,1,personal_issues
+759,I often did not find the time to attend these.,1,no_time
+760,I wasn't aware of this peer learning.,1,unaware_of_resource
+761,I didn't know that there was such a thing.,1,did_not_knew
+762,I attended other study sessions instead.,1,attended_other_format
+763,Did not have time due to schedule conflicts,1,no_time+schedule_conflict
+764,"Entered the room and left promptly; unsure how it was meant to work, and couldn’t tell who was “hosting” the event to ask (arrived late)",1,attended_this+format_uncertainty
+765,"I don't know what that is, but I attended step up sessions instead",1,did_not_knew+attended_other_format
+766,Never had time,1,no_time
+767,I did not have the time.,1,no_time
+768,"Wasn't really necessary for me, I was doing well in the course.",1,did_not_need+doing_well
+769,I was not aware that Chemistry peer learning existed.,1,unaware_of_resource
+770,I was not aware of the peer learning,1,unaware_of_resource
+771,"I did not know that there was a peer learning session in MS3974, but I have gone to many UA sessions for my CHEM 14A class beforehand.",1,did_not_knew+attended_other_format
+772,"I did not know there was a Chemistry peer learning in room MS3974, however I have gone to multiple UA sessions for my chemistry class.",1,did_not_knew+attended_other_format
+773,"When I felt I needed a peer to work with, I asked friends in my class to help me rather than attending a scheduled session as it was simply more convenient.",1,used_study_groups
+774,I didn't know there was a peer learning session,1,did_not_knew
+775,didnt know it was a thing,1,did_not_knew
+776,I did not attend that but I did attend the UA sessions in the YH building that was offered to students in the CHEM 14A class.,1,attended_other_location
+777,Conflicted with a midterm.,1,schedule_conflict
+778,Did not desire to do so,1,other
+779,I did all the review worksheets instead and went to office hours.,1,used_professor_sessions+used_office_hours
+780,I didn't have time and I was scared to go alone,1,no_time+social_anxiety
+781,No b/c i didnt know about it,1,did_not_knew
+782,I didn't really have time and forgot about it,1,no_time+forgot
+783,I don't know about it,1,did_not_knew
+784,I didn't know too much about it,1,did_not_knew
+785,I had a schedule conflict and was busy,1,schedule_conflict+busy_schedule
+786,I do not remember hearing about this.,1,did_not_knew
+787,"It was something that I wasn't too aware of throughout the quarter. Besides, I never knew the best way to ensure that I understood the concepts well enough to excel on exams.",1,unaware_of_resource+format_uncertainty
+788,I didnt see the need for it yet.,1,did_not_need
+789,"I did not need the support for the course, but I greatly appreciate it nonetheless.",1,did_not_need
+790,I wasn't aware of this material.,1,unaware_of_resource
+791,I wasn't aware of peer learning for chem 14d,1,unaware_of_resource
+792,I wasn't able to sign up and also work didn't permit me to attend.,1,signup_issues+other_commitments+schedule_conflict
+793,I prefer studying on my own.,1,prefer_self_study
+794,I attended these chemistry learning sessions to further my understanding.,1,attended_this
+795,It furthered my understanding of the concepts we learned in Chemistry 14A.,1,found_helpful
+796,I didn't know that it was being held.,1,did_not_knew
+797,"I did attend the UA and step up sessions organized by Dr. Lavelle, but I did not know there was a specific peer learning room.",1,attended_other_format+did_not_knew
+798,commuter student so didnt match my plan,1,commuter_issues+schedule_conflict
+799,"I did not know it was also for a lab class, and I did not know what to ask, since the practice worksheets were odd.",1,did_not_knew+format_uncertainty
+800,I didn't need to go/didn't have time.,1,did_not_need+no_time
+801,"I did not have the time, nor did I know about it until later in the quarter.",1,no_time+first_hearing
+802,Not enough time,1,no_time
+803,i didnt have time,1,no_time
+804,I didn’t want to,1,other
+805,I didn't know these existed.,1,did_not_knew
+806,Did not know this existed,1,did_not_knew
+807,I commute and work so my schdeule didn’t align,1,commuter_issues+other_commitments+schedule_conflict
+808,"Did not know about, also time wise probably could not have been able to.",1,did_not_knew+no_time
+809,I utilized Office hours instead.,1,used_office_hours
+810,I didn't even know it was a thing,1,did_not_knew
+811,I had other peer learning sessions and never got around to it for 14Bl,1,attended_other_location+too_lazy
+812,I have not hear of peer learning before for chemistry,1,did_not_knew
+813,I was busy.,1,busy_schedule
+814,I didn't know about it and I felt like I could study on my own.,1,did_not_knew+prefer_self_study
+815,Due to schedule conflict,1,schedule_conflict
+816,I have not heard of it,1,did_not_knew
+817,I did but not in the MS building,1,attended_other_location
+818,"N/A, wasnt sure",1,no_response
+819,I couldn't make those times.,1,schedule_conflict
+820,I do not know what this is.,1,did_not_knew
+821,Was not aware of them,1,unaware_of_resource
+822,I don’t know what it is,1,did_not_knew
+823,I did not know there was any for this course,1,did_not_knew
+824,I didn't find it necessary.,1,did_not_need
+825,anxiety,1,social_anxiety
+826,I did not know when it was,1,format_uncertainty
+827,I didn't feel any need to.,1,did_not_need
+828,I did not know about peer learning.,1,did_not_knew
+829,I did not attend the chemistry peer learning because I did not know that existed.,1,did_not_knew
+830,"I heard about this Chemistry peer learning and saw the schedule for it on google sheets, but I never knew the location/feel like it wasn’t indicated somewhere.",1,did_not_knew+location_issues+communication_issues
+831,I did not know there was peer learning in that room,1,did_not_knew
+832,I did not know what it was or where it was offered.,1,did_not_knew+location_issues
+833,Did not see much need.,1,did_not_need
+834,"Never remembered, too hard to find hours",1,forgot+location_issues
+835,Didn’t know it was available thought it was only for aap,1,did_not_knew+eligibility_confusion
+836,Not sure where this is or what this is,1,did_not_knew+location_issues
+837,I did not have any time to,1,no_time
+838,i was not aware of them.,1,unaware_of_resource
+839,work,1,other_commitments
+840,I wasn’t aware of it,1,unaware_of_resource
+841,I dont knwo what that is,1,did_not_knew
+842,"I am very busy, I work two jobs on top of school and I also lead several clubs",1,busy_schedule+other_commitments
+843,I did not sign up for it as it did not fit into my schedule.,1,signup_issues+schedule_conflict
+844,I typically study/learn better on my own.,1,prefer_self_study
+845,I did not know this was available,1,did_not_knew
+846,I didn't know it was a resource I could use,1,did_not_knew
+847,time,1,no_time
+848,It helped me a lot to understand the concepts better.,1,found_helpful
+849,I wasn’t assigned to attend,1,other
+850,N/a,1,no_response
+851,Wanted to but didn’t fit my schedule!,1,schedule_conflict
+852,"Schedules did not work out, and I was able to get help from TAs and my friends",1,schedule_conflict+used_office_hours+used_study_groups
+853,I feel like the content wasn’t that hard.,1,already_understanding
+854,I was unable to make time for it because of my class schedule. Also if it is mentioned in emails it should be moved higher up so it is the first thing I see when opening them.,1,schedule_conflict+communication_issues
+855,Didn't feel the need to ask for extra help.,1,did_not_need
+856,I did not attend because I did not feel the need to as I felt comfortable enough with the content of the course.,1,did_not_need+already_understanding
+857,I did not know about the peer learning.,1,did_not_knew
+858,Did not necessarily feel the need to.,1,did_not_need
+859,I love it there,1,found_helpful
+860,I didn't feel like I needed to,1,did_not_need
+861,I didn't know about the peer learning,1,did_not_knew
+862,I wasn't aware of the peer learning.,1,unaware_of_resource
+863,I didn’t know it exisited,1,did_not_knew
+864,No need to attend,1,did_not_need
+865,I was studying for another class.,1,schedule_conflict
+866,I don't even know what that is,1,did_not_knew
+867,I didn't attend the peer learning because of the schedule comflict,1,schedule_conflict
+868,waste of time,1,not_helpful+no_time
+869,I wasn’t aware this was a resource.,1,unaware_of_resource
+870,I didn't know it was an option,1,did_not_knew
+871,I did not know when/where it was.,1,format_uncertainty
+872,was unaware it was happening,1,unaware_of_resource
+873,I never knew about it.,1,did_not_knew
+874,-,1,no_response
+875,I feel like I didn't need the peer learning because I want to give more time so I could study more by myself.,1,did_not_need+prefer_self_study
+876,I feel pretty good about my chemistry ability,1,doing_well
+877,DId not hear about it,1,did_not_knew
+878,I felt I understood the material well enough already.,1,already_understanding
+879,I do not know what peer learning is.,1,did_not_knew
+880,I do not know what this is in reference to.,1,did_not_knew
+881,"I did once as I had a content question, but they hadn’t taken the course I was in before so it wasn’t the most helpful.",1,attended_this+ineffective_past
+882,I was pretty busy this quarter,1,busy_schedule
+883,I went for a content question but the tutor hadn't taken the course so it wasn’t the most helpful.,1,attended_this+ineffective_past
+884,Wasn't aware of it,1,unaware_of_resource
+885,I didn’t know what that was,1,did_not_knew
+886,Did not hear about it,1,did_not_knew
+887,I didn’t think i needed it.,1,did_not_need
+888,"I was not aware of it. However, even if I was I probably wouldn't have attended because I felt very comfortable with the material.",1,unaware_of_resource+already_understanding
+889,I didn’t attend the chemistry peer learning room in MS3974 because I didn’t know about it and I believe i know these materials quite well without needing to reach out for extra help.,1,did_not_knew+already_understanding
+890,I didn’t know about this.,1,did_not_knew
+891,didn't hear about the peer learning,1,did_not_knew
+892,"I have not heard of that, I was able to get all my questions answered during lecture, office hours, or e-mail",1,did_not_knew+used_office_hours
+893,I am doing good without any external help,1,doing_well
+894,I had other options,1,used_professor_sessions
+895,I didn't know of it and don't really have time in my schedule,1,did_not_knew+no_time+schedule_conflict
+896,I didn't know about when the Chemistry peer learning program is and I felt office hours might be more effective as getting my questions answered.,1,did_not_knew+used_office_hours+ta_better
+897,I did not feel the need to attend.,1,did_not_need
+898,Dont have time,1,no_time
+899,Not sure,1,no_response
+900,don't need it,1,did_not_need
+901,I didn't know that was a resource available to me.,1,did_not_knew
+902,Wasn't aware of this opportunity.,1,unaware_of_resource
+903,didn't know it happened,1,did_not_knew
+904,I just haven't had the time to go.,1,no_time
+905,I didn't know that was thing.,1,did_not_knew
+906,"Never heard of it, also don't feel that I would need it.",1,did_not_knew+did_not_need
+907,I didn't feel the need to. I tend to study better and learn beter when I am able explain the quesitons myself,1,did_not_need+prefer_self_study
+908,I didn't have time to go,1,no_time
+909,I did not know there was a peer learning room.,1,did_not_knew
+910,The professors office hours are very helpful as he takes the time to further explain difficult concepts and helps naviagte a handful of challenging problems from the homework,1,used_office_hours+ta_better
+911,I receive peer learning through athletics,1,attended_other_location
+912,I was tired after classes and just wanted to go back to the dorms,1,too_lazy+no_time
+913,I couldn't fit it in my schedule,1,schedule_conflict
+914,I was unaware of the tutoring offered.,1,unaware_of_resource
+915,I study better alone usually,1,prefer_self_study
+916,I do not remember hearing about the peer learning event.,1,did_not_knew
+917,I was not aware that chemistry peer learning was available,1,unaware_of_resource
+918,I didn't want to,1,other
+919,I did not feel I needed this,1,did_not_need
+920,I did not feel the need to as I felt I had a good understanding of concepts while doing my assignments and studying,1,did_not_need+already_understanding
+921,I did not really now about it,1,did_not_knew
+922,Have to review other courses.,1,schedule_conflict
+923,Didn’t know it existed,1,did_not_knew
+924,too lazy,1,too_lazy
+925,"I was not aware it was offered. I did however attend multiple TA office hours, professor office hours, and multiple on campus chemistry tutoring sessions.",1,unaware_of_resource+used_office_hours+used_other_tutoring
+926,I was unaware of Chemistry peer learning.,1,unaware_of_resource
+927,I didn't know it was a thing.,1,did_not_knew
+928,"It was convenient since most of my classes were close to MS3974, and I also liked to go there for Math help as well",1,found_helpful
+929,Wasn’t aware of it,1,unaware_of_resource
+930,I didn’t need it because I felt I understood everything.,1,did_not_need+already_understanding
+931,I don't feel the need to,1,did_not_need
+932,I didn't know about it!,1,did_not_knew
+933,Was not able to attend because I had class.,1,schedule_conflict
+934,Did not feel the need to attend peer learning,1,did_not_need
+935,Unable,1,no_response
+936,Didn't think I needed it,1,did_not_need
+937,Didn't need it,1,did_not_need
+938,I did not know about it as well as I should have,1,did_not_knew
+939,My schedule was too busy and I did not have time for it due to work,1,busy_schedule+other_commitments+no_time
+940,I did not have time due to work,1,no_time+other_commitments
+941,I never ended up going to the peer learning room,1,too_lazy
+942,I study better alone,1,prefer_self_study
+943,I wasn’t aware of it.,1,unaware_of_resource
+944,Did not see a need for it as I understood all the material,1,did_not_need+already_understanding
+945,"I took AP Chemistry in high school and didn't realize I could skip the class with the credit, so I knew most of the material already and didn't need the peer learning.",1,already_understanding+did_not_need
+946,I didnt know about it.,1,did_not_knew
+947,I did not know it was an option available to me.,1,did_not_knew
+948,Didn't really know,1,did_not_knew
+949,I did not know this was happening.,1,did_not_knew
+950,i did not know of its existence,1,did_not_knew
+951,Did not know of it,1,did_not_knew
+952,Was not aware of this resource.,1,unaware_of_resource
+953,Wasn't aware,1,unaware_of_resource
+954,N,1,no_response
+955,i didn't know there was a room,1,did_not_knew
+956,I didn't know it was there,1,did_not_knew
+957,"I had a conflict with something else going on in my personal life, hence the reason I could not attend. My apologies.",1,schedule_conflict+personal_issues
+958,Don’t know about it,1,did_not_knew
+959,I didn't think it was necessary to help me understand the content.,1,did_not_need
+960,I have a lot of friends who are also taking this class and so we studied separately together.,1,used_study_groups
+961,Was not aware of it but also would not have needed it,1,unaware_of_resource+did_not_need
+962,I wasn’t informed of this peer learning.,1,communication_issues
+963,I never felt like I needed the extra help,1,did_not_need
+964,I do not know what that is,1,did_not_knew
+965,"I didn't know about it (or don't remember being told), or if I just forgot about it (it may have been announced and I just don't remember) that would be because I looked at what time it was and was busy.",1,did_not_knew+forgot+schedule_conflict
+966,I did not know about them,1,did_not_knew
+967,"I never felt the need to attend and felt I would be better off studying on my own. Nothing against the peer learning sessions, just felt I learn better on my own.",1,did_not_need+prefer_self_study
+968,I did not know that was available.,1,did_not_knew
+969,I did not attend the Chemistry peer learning in room MS3974 because I preferred to review on my own.,1,prefer_self_study
+970,"Unfortunately, I have other commitments that occupy my schedule.",1,other_commitments+schedule_conflict
+971,I was comfortable with the course material,1,already_understanding
+972,I don’t have a need to attend the peer learning sessions and have sufficient resources,1,did_not_need+used_professor_sessions
+973,I wasn't aware there was Chemistry peer learning. I would have definitely attended had I known.,1,unaware_of_resource
+974,"I commute, so it's hard for me to get out at 4-5pm",1,commuter_issues+schedule_conflict
+975,Felt like I didn't need it. I was successful in my own studies/methods already.,1,did_not_need+doing_well
+976,I never felt like I needed to and I was not aware of it.,1,did_not_need+did_not_knew
+977,I didn't know it was there or didn't do the research to know it was there.,1,did_not_knew+too_lazy
+978,I don't feel like I need it right now.,1,did_not_need
+979,"I wasn't aware of this, but it is alright because I didn't need much help this quarter for chem 20A!",1,unaware_of_resource+did_not_need
+980,I didn't hear about it.,1,did_not_knew
+981,I didn't have time and generally felt like I benefited more from studying alone.,1,no_time+prefer_self_study
+982,I didn’t  know it existed.,1,did_not_knew
+983,I was unaware of this.,1,unaware_of_resource
+984,Busy schedule so I utilized other resources,1,busy_schedule+used_professor_sessions
+985,I did not hear about it,1,did_not_knew
+986,I’ve never heard of it,1,did_not_knew
+987,Didn’t hear about it,1,did_not_knew
+988,"no, i did not have enough time",1,no_time
+989,I felt that this would help me better understand concepts,1,attended_this
+990,They would overlap with my schedule.,1,schedule_conflict
+991,It was full when I tried enrolling,1,signup_issues
+992,Because I didn't have that much time to go there,1,no_time
+993,I attended office hours for help instead.,1,used_office_hours
+994,"I didn’t know about it, or, if it was not required, I immediately forgot about it, not expecting to need to attend",1,did_not_knew+forgot+did_not_need
+995,I did not know of it.,1,did_not_knew
+996,i didnt know about it.,1,did_not_knew
+997,What the...what is this?,1,did_not_knew
+998,I didn't even know that was something we offered.,1,did_not_knew
+999,I didn’t really know it existed until now,1,first_hearing
+1000,"I was very busy, and I did not have the time to attend Chemistry peer learning.",1,busy_schedule+no_time
+1001,I wasn't aware there was chemistry peer learning.,1,unaware_of_resource
+1002,I did not find the time to attend.,1,no_time
+1003,Two reasons. I didn't know it was a thing also I'm not having a hard time in this class so I wouldn't feel the need to.,1,did_not_knew+already_understanding+did_not_need
+1004,I did not feel I needed it to succeed.,1,did_not_need
+1005,Not sure what it is,1,did_not_knew
+1006,I didnt even know about that,1,did_not_knew
+1007,I was unaware of the chemistry peer learning.,1,unaware_of_resource
+1008,I did not want to go to the peer learning because of time interferences.,1,schedule_conflict
+1009,"I was honestly very lazy and felt like I was already doing decently in the class, but reflecting back, I probably should have attended the Chemistry peer learning.",1,too_lazy+doing_well
+1010,I prefer other activities,1,other
+1011,I was not aware of peer learning.,1,unaware_of_resource
+1012,I was not aware of peer learning,1,unaware_of_resource
+1013,I did not know that there was a peer learning room,1,did_not_knew
+1014,I didn't know that this was available.,1,did_not_knew
+1015,no need,1,did_not_need
+1016,I found Chemistry this quarter manageable so I instead went to office hours if I did need help.,1,already_understanding+used_office_hours
+1017,I didn’t know they had that,1,did_not_knew
+1018,"I study most efficiently by myself, but I bring questions to class or office hours when needed.",1,prefer_self_study+used_office_hours
+1019,I didn't know this peer learning existed.,1,did_not_knew
+1020,"I wasn’t aware of it. I had other resources, including Dr. DeWeese’s office hours and assigned collaborators discussion section.",1,unaware_of_resource+used_office_hours
+1021,I didnt know this was a thing.,1,did_not_knew
+1022,I did not know it was a thing.,1,did_not_knew
+1023,"When studying, I find myself getting more stressed when there’s other people around me compared to me figuring out my weak spots and taking the time to study from that.",1,group_distraction+prefer_self_study
+1024,Did not know it was happening.,1,did_not_knew
+1025,idk,1,no_response
+1026,I was not aware that there is a Chemistry peer learning session but have been able to get the assistance I need from my professor in office hours.,1,unaware_of_resource+used_office_hours
+1027,"I attended all of the office hours for this class especially toward the end, so I felt that was sufficient. Also I could not figure out if I was eligible for the peer learning when I tried to sign up.",1,used_office_hours+did_not_need+eligibility_confusion

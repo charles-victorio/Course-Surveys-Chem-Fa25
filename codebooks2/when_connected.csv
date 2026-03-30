@@ -1,0 +1,46 @@
+,code,primary_category,secondary_category,keywords,sentiment,usernames,comments
+0,SP001,SPACE/SETTING,Lecture - Connected,"connected in lecture,during lecture I feel connected,professor makes lecture engaging",positive,LectureLurker_42,I feel connected during lecture.
+1,SP002,SPACE/SETTING,Lecture - Disconnected,"disconnected in lecture,lecture too large,can't ask questions in lecture,lecture feels distant",negative,BackRow_Binoculars,I feel disconnected during lecture.
+2,SP003,SPACE/SETTING,Discussion - Connected,"connected in discussion,discussion helps,during discussion",positive,DiscussionDaddy,I feel connected during discussion.
+3,SP004,SPACE/SETTING,Discussion - Disconnected,"discussion online,zoom discussion,disconnected in discussion,online discussion difficult",negative,ZoomCube_Glitch,I feel disconnected during discussion.
+4,SP005,SPACE/SETTING,Office Hours - Connected,"office hours,OH,TA office hours connected",positive,OH_Addict_Throwaway,I feel connected during office hours.
+5,SP006,SPACE/SETTING,Office Hours - Issues,"office hours crowded,can't get help in OH,too many people in OH",negative,Waited2HoursForThis,I have trouble getting help during office hours.
+6,SP007,SPACE/SETTING,Peer Learning Sessions,"UA workshop,step-up,workshop session,peer learning",positive,StepUp_Stan,I feel connected during peer learning sessions.
+7,SP008,SPACE/SETTING,Small Group Settings,"small group,smaller setting,small class size",positive,SmallGroup_Sage,I feel connected in small group settings.
+8,SP009,SPACE/SETTING,Chemistry Community Forum,"chemistry community,forum,online forum",neutral,ChemForum_Fiend,I use the chemistry community forum.
+9,SP010,SPACE/SETTING,Lab/Hands-on Settings,"lab,lab mates,fume hood partners,in lab",positive,FumeHood_Friend,I feel connected in lab and hands-on settings.
+10,SP011,SPACE/SETTING,Outside Class Study,"study group,studying with friends,outside class",positive,StudySesh_Squad,I feel connected when studying outside of class.
+11,CT001,CONNECTION TRIGGER,Peer Collaboration,"working with others,collaborating,group work,discussing with peers",positive,CollabKing,I feel connected when working with others.
+12,CT002,CONNECTION TRIGGER,Shared Struggle,"others struggling too,not only me,everyone confused,brothers in arms",positive,StruggleBus_Buddies,I feel connected when others are struggling too.
+13,CT003,CONNECTION TRIGGER,Teaching Others,"pass on what I learned,helping others,teaching peers",positive,PeerProfessor,I feel connected when I teach others.
+14,CT004,CONNECTION TRIGGER,Asking Questions,"ask questions,able to ask,questions welcomed",positive,QuestionAsker_99,I feel connected when I can ask questions.
+15,CT005,CONNECTION TRIGGER,Receiving Help,"get help,questions answered,support from TAs/professors",positive,HelpReceived,I feel connected when I get help from others.
+16,CT006,CONNECTION TRIGGER,Understanding Material,"understand,something clicks,grasping concept,know what's going on",positive,ClickMoment,I feel connected when the material finally clicks.
+17,CT007,CONNECTION TRIGGER,Instructor Engagement,"professor open to questions,instructor acknowledges difficulty,engaging lectures",positive,ProfEngaged,I feel connected when the instructor is engaging.
+18,CT008,CONNECTION TRIGGER,One-on-One Interaction,"1 on 1,individual help,personal interaction",positive,OneOnOne_Time,I feel connected during one-on-one interactions.
+19,CT009,CONNECTION TRIGGER,Real-world Connection,"apply to outside world,overlap with biology,real life examples",positive,RealWorld_Relevance,I feel connected when content relates to real life.
+20,CT010,CONNECTION TRIGGER,Active Learning,"active engagement,working through problems,practice problems",positive,ActiveLearner,I feel connected during active learning.
+21,CT011,CONNECTION TRIGGER,Feedback,"feedback from peers,confirmation,getting corrected",positive,FeedbackPlease,I feel connected when I get feedback.
+22,DT001,DISCONNECTION TRIGGER,Large Class Size,"so many people,large lecture,300 students,too many",negative,SeaOfStudents,I feel disconnected when the class is too large.
+23,DT002,DISCONNECTION TRIGGER,Online Format,"online discussion,zoom,remote,virtual",negative,ZoomedOut,I feel disconnected in online format.
+24,DT003,DISCONNECTION TRIGGER,Being Alone/No Friends,"no friends,don't know anyone,alone,out of place",negative,AloneInTheCrowd,I feel disconnected when I don't know anyone.
+25,DT004,DISCONNECTION TRIGGER,Feeling Behind,"only one who doesn't understand,behind,others get it,left behind",negative,BehindTheCurve,I feel disconnected when I feel behind.
+26,DT005,DISCONNECTION TRIGGER,Pace Too Fast,"too fast,rushed,whiz through,moves on quickly",negative,CantKeepUp,I feel disconnected when the pace is too fast.
+27,DT006,DISCONNECTION TRIGGER,Confusion/Lost,"don't understand,lost,confused,not grasping",negative,LostInTheSauce,I feel disconnected when I'm confused and lost.
+28,DT007,DISCONNECTION TRIGGER,Fear of Asking Questions,"shy,nervous,scared to ask,anxious,judged",negative,TooShyToSpeak,I feel disconnected when I'm scared to ask questions.
+29,DT008,DISCONNECTION TRIGGER,Poor Instructor Communication,"reads off slides,not explaining,hard to understand accent,talks at us",negative,SlideReader,I feel disconnected when the instructor just reads off slides.
+30,DT009,DISCONNECTION TRIGGER,Lack of Interaction,"no interaction,can't talk,just processing in head",negative,NoInteraction,I feel disconnected when there's no interaction.
+31,DT010,DISCONNECTION TRIGGER,Peer Comparison,"others more prepared,knowledge gap,others ahead",negative,ComparisonIsThief,I feel disconnected when comparing myself to peers.
+32,DT011,DISCONNECTION TRIGGER,Lack of Help/Support,"no one responds,can't get help,ignored",negative,NoResponse,I feel disconnected when I can't get help.
+33,DT012,DISCONNECTION TRIGGER,Intimidation,"cutthroat,intimidated,people take over",negative,IntimidatedOut,I feel disconnected when the environment feels cutthroat.
+34,DT013,DISCONNECTION TRIGGER,Unclear Expectations,"expectations unclear,don't know how to succeed",negative,UnclearExpectations,I feel disconnected when expectations are unclear.
+35,PD001,PEER DYNAMICS,Friends/Know People,"friends,people I know,roommates,study partners",positive,SquadGoals,I feel connected when I have friends in the class.
+36,PD002,PEER DYNAMICS,Strangers/Unfamiliar,"don't know them,strangers,unfamiliar people",negative,StrangerDanger,I feel disconnected when I don't know anyone.
+37,PD003,PEER DYNAMICS,Welcoming Environment,"nice,welcoming,helpful peers,open",positive,WholesomeVibes,I feel connected when peers are welcoming.
+38,PD004,PEER DYNAMICS,Unhelpful Peers,"people don't help,everyone to themselves,no collaboration",negative,SoloMission,I feel disconnected when peers aren't helpful.
+39,IF001,INDIVIDUAL FACTOR,Preparation/Prior Knowledge,"review,prior knowledge,already familiar",neutral,CamePrepared,I feel more connected when I have prior knowledge.
+40,IF002,INDIVIDUAL FACTOR,Major/Identity,"pre-med,transfer student,not chemistry major,life sciences",neutral,PreMedLife,My identity as a student affects how I feel.
+41,IF003,INDIVIDUAL FACTOR,Motivation/Interest,"interest,excitement,lack of interest",neutral,ActuallyInterested,My interest level affects how connected I feel.
+42,IF004,INDIVIDUAL FACTOR,Performance/Grades,"good grades,doing well,performance",neutral,GradeAnxiety,My performance affects how connected I feel.
+43,IF005,INDIVIDUAL FACTOR,Study Habits,"study on my own,prepare before class",neutral,StudiedAhead,My study habits affect how connected I feel.
+44,MB001,MIXED/BALANCED,Connected in X Disconnected in Y,"connected in discussion disconnected in lecture,connected when disconnected when",neutral,ConnectedHereNotThere,I feel connected in some settings but not others (elaborated on below).

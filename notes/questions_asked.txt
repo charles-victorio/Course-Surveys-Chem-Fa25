@@ -1,0 +1,97 @@
+# Survey 1
+
+# Both
+w3s1  Which course are you completing this survey for?
+w10s1 What class are you completing this survey for?
+w3s1  I understand the study strategies needed to perform well in college-level science classes.
+w10s1 I understand the study strategies needed to perform well in college-level science classes.
+w3s1  I can explain Chemistry concepts in my own words.
+w10s1 I can explain Chemistry concepts in my own words.
+w3s1  I am comfortable asking questions in lecture or discussion sections.
+w10s1 I am comfortable asking questions in lecture or discussion sections.
+w3s1  I know where to find academic help if I need it (e.g., office hours, tutoring, peer learning).
+w10s1 I know where to find academic help if I need it
+w3s1  I believe my current study habits will help me perform well in this class.
+w10s1 I believe my current study habits will help me perform well in this class.
+w3s1  I am confident in applying mathematical skills to Chemistry problems.
+w10s1 I am confident in applying mathematical skills to Chemistry problems.
+w3s1  I believe I can manage my time effectively when studying for Chemistry exams.
+w10s1 I can manage my time effectively when studying for Chemistry exams.
+w3s1  I feel prepared to handle the workload and expectations of this course.
+w10s1 I was prepared to handle the workload and expectations of this course.
+w3s1  I expect to earn at least a C in this class.
+w10s1 I expect to earn at least a C in this class (C or better).
+
+# Week 3 Only
+w3s1  I feel confident in my ability to succeed in this Chemistry course.
+w3s1  This question is to check if you are actually reading the question. Select Strongly Disagree here.
+w3s1  I expect to earn at least a B in this class.
+w3s1  What are you most nervous about as you begin this course?
+
+# Week 10 Only
+w10s1 If you are taking a lab, you may have to fill this out for multiple courses--which may be confusing. To be sure that you selected the course you intended to select above, what is your instructor's last name for the above selected course?
+w10s1 Did you attend the Chemistry peer learning in room MS3974 ?
+w10s1 In reference to the above question regarding attending Chemistry peer learning: Why or why not?
+
+# Survey 2
+
+# Both
+w3s2  Which course are you completing this survey for?
+w10s2 This is survey 2. Which class are you filling this survey out for?
+w3s2  I feel like I belong in this Chemistry class.
+w10s2 I feel like I belong in this Chemistry class.
+w3s2  I see myself as part of the learning community in this course.
+w10s2 I see myself as part of the learning community in this course.
+w3s2  I believe my contributions in class are valued.
+w10s2 I believe my contributions in class are valued.
+w3s2  My peers in this course respect my ideas.
+w10s2 My peers in this course respect my ideas.
+w3s2  I feel comfortable working on group problems or labs with other students.
+w10s2 I feel comfortable working on group problems or labs with other students.
+w3s2  I have at least one person in this class I could study with outside of class.
+w10s2 I have at least one person in this class I could study with outside of class.
+w3s2  My instructor(s) care about my learning and progress.
+w10s2 My instructor(s) care about my learning and progress.
+w3s2  I can be myself when interacting with classmates and faculty in Chemistry.
+w10s2 I can be myself when interacting with classmates and faculty in Chemistry.
+w3s2  I feel supported by the Department or program offering this course.
+w10s2 I feel supported by the department or program offering this course.
+w3s2  I see myself continuing in Chemistry or a related(STEM) field after this class.
+w10s2 I see myself continuing in Chemistry or a related field after this class.
+
+# Week 3 Only
+w3s2  My instructor's name is:
+w3s2 When do you feel most “connected” or “disconnected” in Chemistry learning spaces?
+
+# Survey 3
+
+# Both
+w3s3  Which course are you completing this survey for?
+w10s3 This is the third survey. What class are you taking this survey for?
+w3s3  When I struggle with a Chemistry concept, I can usually find a way to understand it.
+w10s3 When I struggle with a Chemistry concept, I can usually find a way to understand it.
+w3s3  I believe I can improve my Chemistry skills with consistent effort.
+w10s3 I believe I can improve my Chemistry skills with consistent effort.
+w3s3  Mistakes in Chemistry are an important part of learning.
+w10s3 Mistakes in Chemistry are an important part of learning.
+w3s3  I feel comfortable seeking help when I don’t understand a concept.
+w10s3 I feel comfortable seeking help when I don’t understand a concept.
+w3s3  I can motivate myself to keep studying even when the material is difficult.
+w10s3 I can motivate myself to keep studying even when the material is difficult.
+w3s3  I believe intelligence and ability in Chemistry can be developed over time.
+w10s3 I believe intelligence and ability in Chemistry can be developed over time.
+w3s3  I see challenges in Chemistry as opportunities to grow.
+w10s3 I see challenges in Chemistry as opportunities to grow.
+w3s3  I feel confident tackling new or unfamiliar Chemistry problems.
+w10s3 I feel confident tackling new or unfamiliar Chemistry problems.
+w3s3  When I don’t do well on an exam, I reflect and adjust my study strategies.
+w10s3 When I don’t do well on an exam, I reflect and adjust my study strategies.
+w3s3  I expect to feel more confident in Chemistry by the end of this quarter.
+w10s3 I feel more confident in Chemistry now that we are at the end of this quarter.
+
+# Week 3 Only
+w3s3 My instructor's name is:
+w3s3 What usually helps you learn best when material feels confusing or challenging?
+
+# Week 10 Only
+w10s3 If you are taking a lab, you may have to fill this out for multiple courses--which may be confusing. To be sure that you selected the course you intended to select above, what is your instructor's last name for the above selected course?

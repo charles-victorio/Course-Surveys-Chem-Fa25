@@ -1,0 +1,11 @@
+14A or 14AE -> 14B
+14B -> 14BL (prereq or coreq)
+14B -> 14C
+(((14B or 14BE) and 14BL) or ((20B or 20BH) and 20L)) and 14C (prereq or coreq) -> 14CL
+14C -> 14D
+20A
+20B -> 30A
+20B and 20L and 30A -> 30AL
+(30A or 30AH) -> 30B
+(30A or 30AH) and 30AL and 30B -> 30BL
+30B and 30BL and 30C -> 30CL

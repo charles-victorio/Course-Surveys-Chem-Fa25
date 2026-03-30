@@ -1,0 +1,53 @@
+TODO
+- normalize prof survey_names
+    - what to do for multiple profs? "Hung V. Pham/Tyler Kwak", "Maher M. Henary/Aimee Long", "nicholas deifel and soumitra athavale", "soumitra athavale, nick deifel"
+    - might have scuntthrope errors
+    - "not taking a lab" ?
+    - find most misspelled survey_names
+    - misspelled survey_names correlated with anything?
+- are there multiple timezones
+
+- in w3, 27 ppl answered courses differently btwn surveys
+```
+# Get the course columns
+course_cols = ['course', 'course_s1', 'course_s2']
+# Find rows where not all course values are the same
+mismatched = w3[w3[course_cols].nunique(axis=1) > 1]
+print(mismatched[course_cols])
+```
+- missing yes/know and qualitative
+
+viz ideas
+- bar graphs
+find biggest deltas (kl divergence?) from w3 to w10
+find biggest deltas btwn profs (at w3, at w3, and deltas btwn the w3 -> w10 delta btwn profs)
+
+
+# Teachers
+what to do when instructor doesnt match schedule of classes
+- "not taking lab"
+- grad student
+- other teacher not listed
+- name of class
+- troll
+
+maybe dont care abt teachers since its mostly one to one
+
+# mvp
+delete trolls
+find out students - courses relationship
+make graphs for each class, show size / exclude small size
+- each question
+- overall
+- when there are pre and post, compare pre vs post
+- per class, only when there is enough sample size
+- have to see how many correlated before vs after
+
+
+# recommendations
+standardize questions ahead of time, so same questions w same wording are asked in the pre and post.
+for scientific accuracy and analysis ease
+
+statistical tests
+comparing two groups with different sample sizes
+claude stats recommendations: https://claude.ai/chat/f893d465-51a1-43b2-9d3e-9beb9bcfb28e

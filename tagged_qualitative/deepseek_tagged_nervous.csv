@@ -1,0 +1,484 @@
+nervous,count,tags
+The exams,6,exams_general
+Exams,3,exams_general
+The exams.,2,exams_general
+The final,2,cumulative_final
+the difficulty of exams as compared to class work,2,exam_difficulty_level
+The difficulty of the exams.,2,exam_difficulty_level
+getting an A,2,grades
+Midterms and the final.,2,exams_general
+How different it'll be from high-school chemistry and the difficulty of the exams,2,high_school_to_college+exam_difficulty_level
+I am most nervous about falling behind and not having the proper study techniques to ensure I am learning to the best of my ability.,2,falling_behind+study_effectiveness
+final exam,2,cumulative_final
+I’m most nervous about being able to succeed and recall old information from classes to be able to complete assignments or exams.,1,doing_well+prior_knowledge_gap
+I am most nervous about taking the whole lab period and still not finishing my experiments. I am also nervous about feeling rushed in the lab period causing me to feel like I’m not fully understanding what I am completing.,1,lab_pacing
+I switched in 2 days ago and gotta catch up,1,falling_behind
+"I am a transfer student so it is scary coming across this class as one of my first, it’s very fast paced and it feels like the lecturer is 10 steps ahead when I barely had enough time to catch up to the content. Just struggling a bit you may say.",1,transfer_student+course_pace
+"How the curve will be on my class, which is supposedly quite fair so.",1,curve_grading
+Managing the workload of two postlabs and prelabs a week,1,lab_workload
+takes a lot of time,1,time_management
+Being able to understand why I use certain equations and not just plugging values in,1,conceptual_understanding
+I'm not sure where to begin in terms of studying concepts I don't understand.,1,study_effectiveness
+That I am not going to understand the topic and will fall far behind.,1,falling_behind
+Not mastering concepts before the exam,1,exam_preparation_readiness
+everyone struggles w chem at this school so i am scared for the midterms and that i will be unprepared!,1,heard_difficult+exam_preparation_readiness
+"I am not particularly proficient in English, so I am slightly nervous about communicating and clarifying my academic questions and concerns in English in a way that is clear and concise enough for others to understand.",1,english_proficiency
+"I'm most nervous about keeping up with all the concepts. I feel like they all build off of each other, so if I don't understand something in the beginning of the class then it'll be hard for me to understand the future topics.",1,course_pace+conceptual_understanding
+"I was nervous about the speed of the class, but Dr. Lavelle has so many resources available, that I feel very well supported.",1,not_nervous
+"I'm nervous about the midterm because even though I understand the material, I don't feel confident about my knowledge.",1,exams_general+confidence_issues
+Having enough time to properly learn all the reactions to the required extent.,1,time_management+reactions_mechanisms
+Balancing the workload with other courses.,1,balancing_courses
+not passing,1,failing
+Adjusting to being on a new campus and earning my first GPA! I earned a high B in my last organic chemistry class and I’m nervous for this one.,1,new_environment+gpa_impact+prior_negative_experience
+not remembering 30a stuff,1,thirtyA_specific
+I know that I am going to have to do a lot of practice problems to understand it and I don't know if I have enough time to study for all my classes.,1,practice_problems+balancing_courses
+Just memorizing and being able to apply mechanisms when it comes to the test.,1,memorization_general+reactions_mechanisms+application_problems
+Seeing exam questions on topics that were only mentioned in 30A yet never being reviewed in 30B,1,thirtyA_specific
+Managing my time and finding the right study method for me.,1,time_management+study_development
+Balancing courseload. And also remembering contents from the previous chemistry class,1,balancing_courses+prior_knowledge_gap
+"As a transfer student, it's nerve wracking to consistently hear ""your knowledge from 30A"" when I haven't taken that course. I have no idea what concepts from my previous organic chemistry class coincide with ""30A knowledge"". I feel very overwhelmed and lost.",1,transfer_student+thirtyA_specific
+"That my other classes will reduce the amount of time I have for this class. I know how long I will need to spend to get an A in 30B after my experience in 30A, so I am just nervous about whether I will have the time available to do so.",1,balancing_courses+grades+prior_negative_experience
+Transferring from community college,1,transfer_student
+memorizing all the reactions needed for synthesis and mechanisms,1,reactions_mechanisms
+"I am most nervous about forgetting how to use certain lab equipment. Before lab, I have been trying to refresh my memory by watching short tutorials. So far, everything is going smoothly and I am finishing lab sessions before the end time.",1,lab_skills
+Time management and exams.,1,time_management+exams_general
+I am not confident in a lot of the Chem 30A concepts because I transferred from a CC and my professor focused on memorization rather than understanding O-chem.,1,thirtyA_specific+transfer_student+conceptual_understanding
+I'm nervous about the tests and midterms.,1,exams_general
+I am most nervous about balancing my time. I'm taking a lot of content-intensive STEM classes and I need to make sure I have enough time to study all of them.,1,time_management+balancing_courses
+Staying on track with studying the concepts and doing practice problems consistently.,1,falling_behind+practice_problems
+Remembering content from the last chemistry course I took and applying it to this course,1,prior_knowledge_gap+application_problems
+Nothing Pham is great,1,not_nervous
+Amount of mechanisms that will need to be remembered by the final.,1,reactions_mechanisms
+This class is pretty study intensive and with the rest of my workload I have some personal concerns about time and stress management but this is less to do with the class itself but more cause I've taken on a pretty intense workload.,1,workload_general+time_management
+"Memorizing/remembering all the reagents, and their names; that's what I struggled with the most in 30A",1,memorization_general+prior_negative_experience
+I’m most nervous about not having taken a co-req for this class because it’s not required for my major.,1,prior_knowledge_gap
+"Because this class is significantly more content, I am most nervous to memorize or be able to answer so many different reactions.",1,content_volume+memorization_general
+The course structure is confusing; homework assignments and other materials aren't as clear as in my other classes.,1,course_organization
+Understanding the formulas and conversions,1,math_calculations
+I'm just talking a lot of STEM prereqs right now so I'm worried about how I will manage my time while trying to do well in all of them,1,balancing_courses+doing_well
+doing well,1,doing_well
+"I am nervous about the amount of content in this course. 30A was a little rough for me, so for this course, I am trying different study habits. I would still like more information on where I can potentially get more help, including chem tutoring.",1,content_volume+prior_negative_experience+resource_utilization
+"I'm most nervous for the final as my memory regarding the experiments tend to waver. They are not recorded down besides our observations, so I get worried about forgetting what goes on during the experiment to apply to the final.",1,cumulative_final+lab_final
+The amount of concepts you have to memorize and how fast pace the course is.,1,content_volume+memorization_general+course_pace
+"I don't feel as confident in my 30A knowledge, which scares me a lot, because a lot of the content in 30B is built on the knowledge in 30A. However, as long as I brush up on my 30A knowledge, I should feel less nervous.",1,thirtyA_specific+confidence_issues
+Summer took away by Chem 30A knowledge :(,1,thirtyA_specific
+Workload,1,workload_general
+Studying the right way and understanding the content/problems,1,study_effectiveness+conceptual_understanding
+It’s been a while since I took a chemistry course in high school.,1,high_school_gap
+Studying on own and just making sure that I am doing everything I can to understand the material,1,self_teaching+conceptual_understanding
+I’m nervous about not being able to keep up.,1,course_pace
+I have a hard time being able to hear and write at the same time which makes absorbing information in a large class very difficult.,1,lecture_following+class_size
+"The last time I took chemistry was my freshmen year of high school, so my foundation in basic chemistry isn’t the strongest which I am most nervous about.",1,high_school_gap+prior_knowledge_gap
+The tests and how to prepare,1,exams_general+exam_preparation_readiness
+"I’m most nervous about the work load but not only that, being able to study on my own. I feel that I sometimes fall behind on textbook readings or have a hard time understanding the lectures. I’m also slow on completing the hw problems and i worry how that might affect my performance on the tests.",1,workload_general+self_teaching+lecture_following+exam_preparation_readiness
+Not performing well on the midterms and the final,1,doing_well
+"I am most nervous for the sheer amount of mechanisms, and in turn reagents required for this course. The reagents specifically come down to a lot of memorization, which generally is my worst skill in terms of science since I can't really derive it too easily, if it all.",1,reactions_mechanisms+memorization_general
+Remembering the chemistry I took sophomore while also maintaining and understanding the new chem information I am learning.,1,prior_knowledge_gap
+I feel im not very good at chemistry,1,self_doubt
+"I'm nervous that I will be unprepared for the final like I was last year. I had all of my finals the same day and that really messed up my study method, but I planned my schedule this year a lot better so I think I will be ok.",1,cumulative_final+prior_negative_experience+multiple_exams
+Remembering material from 30A,1,thirtyA_specific
+That it builds off of concepts from the previous course and I was already struggling with understanding that material.,1,prior_knowledge_gap+prior_negative_experience
+Caveat - I've taken orgo before.,1,not_nervous
+The amount of concepts that I need to understand the actual structural component of molecules as 3D but they’re presented in a 2D form - which makes it difficult for me.,1,visualization
+A lot of my really smart friends struggled in this course before so I'm a little nervous but so far it's going good.,1,smart_friends_struggled
+I forgot most of what I learned in gen chem so I'm lowk cooked,1,prior_knowledge_gap
+"Everyone said ochem is hard, so I guess we shall see",1,heard_difficult
+Reminding myself of all the 30A content!,1,thirtyA_specific
+30a :(,1,thirtyA_specific
+I am nervous about the pace of this course and being able to process and understand concepts quick enough.,1,course_pace+conceptual_understanding
+"I am not too nervous, but I heard the later chemistry classes get harder.",1,not_nervous+heard_difficult
+Lack of one on one interaction with professor.,1,class_size
+Organic chemistry isn’t as straightforward as gen chem so I’m nervous I may not be able to understand and apply more abstract concepts as well.,1,conceptual_understanding
+Exams.,1,exams_general
+The cumulative application of content on the exams.,1,cumulative_final+application_problems
+Not being able to translate my understanding of the concepts to calculation problems on tests,1,application_problems+math_calculations
+the horrors of organic chemistry,1,horror_stories
+Studying and doing the Finals and Midterms,1,exams_general
+Midterm and Final,1,exams_general
+"Memorization, remembering the small details",1,memorization_general
+Balancing everything...,1,balancing_life
+Probably THR expanding and reactions,1,reactions_mechanisms
+I’m worried about the test format,1,exam_format_structure
+Material from 30A,1,thirtyA_specific
+I am most nervous about developing efficient/effective study habits that will help me retain all the information that this course will test me on as the quarter progresses. I am slightly concerned at the difficulty level of questions and how well I will be able to handle them.,1,study_development+exam_difficulty_level
+I’m nervous about the test format,1,exam_format_structure
+Time management,1,time_management
+I am most nervous about the midterms and finals since they are a heavy chunk of our grade.,1,exams_general
+Understanding diagrams and visualizations for exams,1,visualization
+My professor likes to go into some details but unclear with whether we should know or not. Lectures are also little unorganized that makes hard to follow and hard to study by myself.,1,lecture_following+course_organization+self_teaching
+"I am nervous for the tests, and the problem sets.",1,exams_general
+I am nervous that I don't have enough knowledge from my previous chemistry class to complete this class.,1,prior_knowledge_gap
+The curve. I am worried when I have to set myself above others and not above a certain benchmark to get the grade I want.,1,curve_grading
+"I am most nervous about the amount of memorization required as well as the fast pace of this class on the quarter system. I also am worried about relearning all the reactions from 30A while simultaneously learning the new material. And lastly, I am nervous about having this midterm back to back right after my 2 hour Bioengineering 100 midterm.",1,memorization_general+course_pace+quarter_system+thirtyA_specific+multiple_exams
+"I am retaking this course and am nervous about making the same mistakes. I am working hard to develop my study strategies, time management, and beyond in order to excel this time around.",1,prior_negative_experience+study_development+time_management
+Elimination reactions,1,specific_topic
+"Drawing the products in the reactions :/
+and studying the right material for the exams",1,reactions_mechanisms+knowing_focus
+"I am most nervous about not doing as well on an exam, especially because I haven't taken an exam since may, and I won't be taking one until the end of the month.",1,exams_general+doing_well
+"The content moves very quickly and builds on itself, so I'm worried I might fall behind if I have a bad week with other stuff.",1,course_pace+falling_behind
+"I’m not sure how to balance my time, esp since classes are really short and I’m super busy this quarter",1,time_management+quarter_system
+I am the most nervous about memorizing the key reactions and their mechanisms for chem 14D,1,reactions_mechanisms
+"A lack of practice exam problems, leaving me completing in the dark when it comes to taking and passing the exam.",1,practice_problems+exam_preparation_readiness
+"I am most worried about having avoidable errors by forgetting to apply the correct dog figs, stereochemistry, or concept applications because they require a strong foundational understanding",1,prior_knowledge_gap+application_problems
+Being behind and not understanding lecture. The exams. I’m afraid of not being able to do the exam style questions. Afraid that what I believe to be strong understanding is not enough,1,falling_behind+lecture_following+exams_general+confidence_issues
+I’m most nervous about being able to stay on top of the learning and material covered and practice it consistently.,1,falling_behind+practice_problems
+"I have heard that this course is the most difficult of all the chemistry courses, so I want to ensure that I know all I need to know before taking an exam.",1,heard_difficult+exam_preparation_readiness
+Having 3 midterms on the same day...,1,multiple_exams
+The time commitment with my other upper division classes and the amount of content in 10 weeks that will be learned,1,time_management+balancing_courses+content_volume+quarter_system
+Midterm and finals,1,exams_general
+Adjusting to the workload and remembering high school concepts,1,workload_general+high_school_gap
+the exams!!!,1,exams_general
+Organizing myself to find enough time to study for this class.,1,time_management
+I may take longer to understand concepts.,1,conceptual_understanding
+quantum mechanics,1,specific_topic
+"I am nervous about the workload and concepts being too much and too fast to understand. I think I understand the concepts, but when I try to do practice problems, I am often lost.",1,workload_general+course_pace+practice_problems
+"I am nervous I am going to fall behind. Especially when things get confusing or I forget some of the basics, and I always feel one-step behind. Sometimes I understand lecture, but I can't seem to practice so I get it on my own terms. That is something I know I need to work on, as well as try and practice.",1,falling_behind+prior_knowledge_gap+lecture_following+practice_problems
+Definitely the material because so far I’ve been struggling to keep up with the lessons as it seems like it is expected to already have learned the material and essentially be “exceptional” at it already.,1,course_pace+prior_knowledge_gap
+exam format and timing,1,exam_format_structure+exam_pacing_timing
+The amount of content there is to memorize for each reaction.,1,content_volume+reactions_mechanisms
+Im nervous about the pace of the class and the pace at which a lot of information is being thrown at me.,1,course_pace
+The amount of content covered within a short time,1,content_volume+course_pace
+The amount of concepts and mechanisms covered in a short time,1,content_volume+reactions_mechanisms
+bringing back and building upon high school chemistry knowledge,1,high_school_gap
+falling behind,1,falling_behind
+The reputation of difficulty,1,heard_difficult
+I am most nervous about the cumulative final.,1,cumulative_final
+"Not being able to understand something, which puts me behind everything.",1,conceptual_understanding+falling_behind
+"I'm most nervous about not understanding a concept towards the beginning that is built upon later in the quarter, because I think it would cause me to struggle a lot.",1,conceptual_understanding+falling_behind
+Learning the material as we are taught and not just once I have to do the homework,1,falling_behind
+"the course being on zoom has been very difficult for me, especially being in breakout rooms during discussion where i feel like im the only one talking and not able to get help from my group",1,zoom_online
+Being prepared for the tests,1,exam_preparation_readiness
+I am most nervous about the amount of content I need to understand.,1,content_volume
+running out of time on exams,1,exam_pacing_timing
+I am most nervous about keeping up with all the material in this class and being ready for the exams when they come.,1,falling_behind+exam_preparation_readiness
+"Not considering or remembering the multifarious little details of ochem in my answers on tests, resulting in loss of points",1,memorization_general
+"I am nervous about the absence of a small classroom setting we usually get in discussions. The lack of smaller class sizes this year due to zoom discussions makes it harder to ask more one on one questions that might take longer to answer. As a student, I feel disconnected from the educational team.",1,class_size+asking_for_help+zoom_online
+The workload and other classes I need to proritize as well,1,workload_general+balancing_courses
+"I want to be able to do better than I did in CHEM30A. The exams were harder than the PSs. I think my approach last quarter was taking too much time, rewriting lecture notes instead of applying knowledge. I am writing notes on the slides, and hopefully I will do more practice problems, and definitely reach out for more help during OH and disc.",1,prior_negative_experience+exam_difficulty_level+study_effectiveness+practice_problems+resource_utilization
+Balancing it with my other classes’ workload,1,balancing_courses
+"I am nervous because there is a lot of information from highscool chemistry that I do not remeber, since I took it in 11th grade and it isn't fresh in my mind, and I am worried I do not have a good enough foundation to do good.",1,high_school_gap+prior_knowledge_gap
+"I am probably most nervous for exams, I guess I just don’t have a great sense of what a college exam looks like and that’s a little nerving.",1,exams_general+first_college_course
+I am nervous about all of the memorization needed,1,memorization_general
+complex formulas,1,math_calculations
+I am most nervous about when it comes to finals and midterms how I will choose to study and prepare.,1,exams_general+study_effectiveness
+Staying on top of everything really. Nothing specific.,1,nothing_specific+falling_behind
+"Getting below an A. This is ""supposed"" to sorta be review from AP Chem, which I did quite well in and really enjoyed. If I can't excel with chemistry I already know, then I'm worried I won't do all that great in new chemistry classes.",1,grades+high_school_gap
+Remembering deadlines,1,assignment_tracking
+I'm nervous because I am unsure of what tests will be like. The intimidating sounding concepts also make me feel very nervous.,1,exam_format_structure+conceptual_understanding
+Completely new content that doesn't seem to be clicking as fast as others.,1,course_pace+conceptual_understanding
+I have a hard time studying for ochem as it doesn't come intuitively to me.,1,conceptual_understanding
+"I heard that the pace of the course is fast, and I am most nervous about keeping up with the lecture material and homework problems so I will be in good shape for the midterms and final.",1,course_pace+falling_behind
+Midterms,1,exams_general
+"I often feel like chemistry is the kind of course where students (at least me personally) always have to learn the content a bit on their own to fully grasp what is hard to understand in lectures, and since that's so time-consuming and we're managing other difficult classes, there feels like little to no time to practice, which is beyond crucial.",1,self_teaching+time_management+practice_problems
+The pacing. It seems like we're going through it kind of slowly right now so I'm worried its going to speed up super fast at the end and I wont be able to keep up. I also wish I could see an example of what questions will be on the exams so I could feel more prepared.,1,course_pace+exam_format_structure
+My grade,1,grades
+"I am a bit nervous about some of the more difficult conceptual aspects of the course. However, so far my professor has done a good job at explaining some of these concepts.",1,conceptual_understanding
+"I am most nervous about the complexity of the topics and the number of issues we cover, but I am prepared to do whatever I need to do to prepare.",1,content_volume+conceptual_understanding
+The midterms,1,exams_general
+"A lot of 20L content is mentioned, but it's been two quarters and a summer since I did anything related to the chemistry labs at UCLA which include this content. I'm worried about how the midterm will be, remembering how to calculate certain values or understanding concepts.",1,prior_knowledge_gap+lab_final
+Whether or not I'll do well. I come straight out of high school so I don't know if my study habits will work and carry me as well. I am also worried about the math related to chemistry (I'm pretty not great at it). I am also worried if I can manage my time properly to succeed in my classes.,1,doing_well+high_school_to_college+study_effectiveness+math_calculations+time_management
+mid term,1,exams_general
+"I am pretty nervous about the speed of this course, as I am only used to the speed in high school courses.",1,course_pace+high_school_to_college
+Understanding the concepts fast enough to be prepared for the midterms that come up super fast.,1,course_pace+conceptual_understanding+exam_preparation_readiness
+"As Ochem is just known to be difficult, I have been nervous about the amount of information and the difficulty of the course. However, I believe the course provides the resources and help to guide me to success, I just need to utilize them and my time well and effectively.",1,heard_difficult+content_volume+resource_utilization+time_management
+The amount of midterms and the transition to a college level course.,1,exams_general+high_school_to_college
+"I just feel that there is a lot of workload for this class, as we need to complete a pre and post-lab for each experiment with 2 experiments per week. I really need to manage my time well with other classes.",1,lab_workload+time_management+balancing_courses
+THE MIDTERMS!!!!,1,exams_general
+30A concepts that i didnt fully understand,1,thirtyA_specific
+I am most nervous about naming conventions for organic molecules.,1,specific_topic+terminology
+20L concepts i need to review,1,prior_knowledge_gap
+Everything,1,everything
+The pace in relation to timing of exams,1,course_pace+exam_pacing_timing
+"I'm nervous for midterms/finals since I sometimes forget some things (especially from the beginning). Ultimately, though, my preparedness is left in my hands.",1,exams_general+memorization_general
+"I am just nervous about my lack of prior chem knowledge, and the transition between a smaller learning space to a large one.",1,prior_knowledge_gap+class_size
+"passing the class. I hope to get at least a C to be able to fufill my major requirement, but the class is taught very fast and have always had difficulty leanring chemistry",1,failing+course_pace
+Getting behind,1,falling_behind
+I am worried about falling behind early,1,falling_behind
+"I did poorly in Chem 14AE because I had trouble understanding the course content. I am worried that if I had difficulty in the first chemistry course, I will have trouble with future chemistry courses. However, I am aware of available resources and will take advantage of them if necessary.",1,prior_negative_experience+conceptual_understanding+resource_utilization
+I am most nervous I won't be able to predict which mechanism will be used for a reaction.,1,reactions_mechanisms
+I feel like I don't really know how to apply the concepts to actual problems.,1,application_problems
+"I am a transfer student, and my worry is about the change from the semester system to the quarter system and how this fast-paced learning will be more difficult than what I am used to.",1,transfer_student+quarter_system+course_pace
+N/A.,1,nothing_specific
+"The time commitment associated with 2 post-labs, 2 pre-labs, and 6 hours of labs every week.",1,lab_workload
+"I heard that the final only consists of a few questions so if I accidentally get one wrong, there will be a huge reduce to my grade.",1,cumulative_final+grades
+Test anxiety because it always gets the best on me,1,test_anxiety
+The magnitude of content that we have to know and knowing how to actually apply the content. (conceptually understanding the content beyond baseline understanding),1,content_volume+application_problems+conceptual_understanding
+"Not being able to apply myself on an exam or prepare enough, however I am putting in effort to keep up with the material and do practice problems",1,exam_preparation_readiness+practice_problems
+"I'm most nervous about tackling new concepts that I haven't seen before, especially because we are moving at a pace that is faster than I'm used to.",1,conceptual_understanding+course_pace
+"Unpredictability of exams, and small mistakes slipping through on homeworks",1,exam_difficulty_level
+"I am extremely slow in understanding and the concepts don't just ""click"" for me. While I spend hours making sure I understand the initial concepts, I feel like the course moves faster than I can. I also believe that if I don't master the first few concepts I am literally unable to move on, which usually has proven to be true.",1,conceptual_understanding+course_pace+falling_behind
+The fast pace of the course and staying on top of learning new topics.,1,course_pace+falling_behind
+I'm nervous about the exams,1,exams_general
+"Keeping up with the work, and understanding all the concepts as the class accelerates",1,falling_behind+conceptual_understanding+course_pace
+The material seems more complex than in past chemistry courses.,1,conceptual_understanding
+I worry about not get a,1,grades
+Test and midterm structures,1,exam_format_structure
+Understanding all of the concepts,1,conceptual_understanding
+"Taking a midterm for the first time, taking a final exam worth most of my grade, free response questions rather than MCQ, is partial credit for work shown given?",1,first_college_course+exam_format_structure
+EVerything but i am prepared,1,everything
+everything but i am prepared,1,everything
+"I am most nervous about taking chemistry my first quarter of college because chemistry is not my strongest subject, and I strive to succeed in this course. I know that I must manage my time efficiently and develop good study habits in order to have success in this course.",1,first_college_chem+self_doubt+doing_well+time_management+study_development
+"I am most nervous about getting into actual chemistry concepts. Currently we are only doing math, which is one of my strong suits. My friend who took AP Chem listed off concepts that sounded hard; however I’m sure with a little studying I can get it!",1,conceptual_understanding+heard_difficult
+Having to memorize too much content.,1,memorization_general+content_volume
+ochem is hard,1,heard_difficult
+weak 14C background -> need to put in extra work,1,prior_knowledge_gap
+I forgot the material from ochem 1 and since i transferred from a community college i kinda feel like an outsider.,1,prior_knowledge_gap+transfer_student+imposter_syndrome
+The sheer volume of content. I am not sure how to learn everything so quickly.,1,content_volume+study_effectiveness
+"I am most nervous about the pace of this course. Chemistry, and organic chemistry in particular, requires students to memorize (and deeply understand) a litany of concepts very quickly. I just hope I can keep up.",1,course_pace+memorization_general+conceptual_understanding
+I am most nervous about the amount of memorization required for tests.,1,memorization_general
+Remembering all the different mechanisms.,1,reactions_mechanisms
+I haven't taken chemistry since Sophomore year and I fear I will not be able to recall or apply high school chemistry skills to new concepts.,1,high_school_gap+prior_knowledge_gap+application_problems
+My studying effectiveness. Although I know it has became better.,1,study_effectiveness
+The classes are dense and the concepts are hard to truly conceptualize.,1,conceptual_understanding
+Being prepared to take the course. Since the chemistry professors tend to have different ideas of what students need to know or how they interpret certain things it makes it a bit confusing as I progress through the chemistry series.,1,exam_preparation_readiness+professor_teaching_style
+I am most nervous about staying on top of my work and managing my time efficiently to solve enough practice problems before midterm exams.,1,falling_behind+time_management+practice_problems+exam_preparation_readiness
+I'm nervous about keeping up with the content and relearning material if necessary because of how little lecture slides there are.,1,falling_behind+resource_utilization
+I am nervous about the speed of material and the pace of the course.,1,course_pace
+Finding the time to go to office hours and time management during exams.,1,resource_utilization+exam_pacing_timing
+Exam preparation.,1,exam_preparation_readiness
+"I know that Chem 14D is like ochem part 2, some materials overlap but some are not, they are completely new to me. So i often feel worry that I won't be able to catch up or understand.",1,prior_knowledge_gap+falling_behind
+"Since I took AP Chemistry in high school, I feel fairly confident about the material. However, there are a handful of concepts that are brand new to me, so I am slightly nervous about looking over such concepts while I'm reviewing.",1,not_nervous+conceptual_understanding
+Performing well on Midterms and Finals,1,doing_well
+"Since I have no prior chemistry experience, I am a little nervous about how I can process the information given. So far it has been ok, and I hope that remains the same.",1,prior_knowledge_gap
+I am most nervous about it being extremely difficult for me to conceptualize and understand.,1,conceptual_understanding
+The tests. I don't know how hard they will be and how strictly they will be graded.,1,exam_difficulty_level
+The midterm.,1,exams_general
+Tests,1,exams_general
+I am most nervous about managing this course with my other courses.,1,balancing_courses
+"It's my first quarter in college, so I don't really know what to expect.",1,first_college_course
+I am nervous about making enough time to study effectively for this course,1,time_management+study_effectiveness
+Remembering all the reactions,1,reactions_mechanisms
+"I think I've heard many mixed reviews about this course and its difficulty, so it makes me quite nervous thinking about how hard it will be to succeed in this class. However, Dr. Ow provides many resources to help with studying and I feel a lot more at ease going into this quarter.",1,heard_difficult+resource_utilization
+I'm most nervous about asking questions or just going to office hours just because I get scared asking questions or speaking up.,1,asking_for_help
+"I am working on building up m confidence for lab days. I am a very visual person, and with Spanish being my first language. I do sometimes find it hard to comprehend the lab manual.",1,lab_skills+english_proficiency
+How to study and study methods I can use for this course. The pace and load of the content and being able to apply them in tests and timed-situations.,1,study_effectiveness+course_pace+content_volume+application_problems
+mastering concepts,1,conceptual_understanding
+understanding the material bc it all moves so fast!,1,conceptual_understanding+course_pace
+I am nervous about the Math in chemistry since I am not really into it.,1,math_calculations
+The curve,1,curve_grading
+uncertainty on the exam formats,1,exam_format_structure
+I am most nervous about memorizing all of the mechanisms because we go over them once only and very quickly.,1,memorization_general+reactions_mechanisms+course_pace
+Not keeping up with the pace or falling behind my peers. Also dealing with concepts people learned in high school that I never did.,1,course_pace+falling_behind+high_school_gap
+Being able to retain and apply all of the information I am learning within a short period of time,1,memorization_general+application_problems+course_pace
+I'm nervous I won't understand or remember all the concepts and then flop on the test,1,conceptual_understanding+memorization_general+exam_preparation_readiness
+Understanding how to manage my time effectively and study on my own .,1,time_management+self_teaching
+The amount of material and memorization needed.,1,content_volume+memorization_general
+I am nervous that I will fall behind as midterms approach in terms of balancing learning new concepts and reviewing older concepts.,1,falling_behind+balancing_courses
+mIssing an assignment becauase I'm unorganized/the work is in different places.,1,assignment_tracking+course_organization
+The amount needed to memorize,1,memorization_general
+It's been a while since I've taken chemistry so I am nervous as I don't know what to expect with the midterm's difficulty.,1,time_since_chem+exam_difficulty_level
+Being able to know how to study well for this class.,1,study_effectiveness
+Most nervous about failing,1,failing
+First college course,1,first_college_course
+The pace at which we are learning at.,1,course_pace
+The difficulty and workload of the material given the pace of the quarter.,1,exam_difficulty_level+workload_general+course_pace+quarter_system
+The difficulty and the workload of the material given the pace of the quarter system.,1,exam_difficulty_level+workload_general+course_pace+quarter_system
+The exams!!,1,exams_general
+"I am worried about how hard the tests will be, knowing this class is difficult.",1,exam_difficulty_level+heard_difficult
+Getting used to the workload and the new material,1,workload_general+conceptual_understanding
+I am nervous about forgetting minor details when doing drawings.,1,memorization_general+visualization
+I'm most nervous about tests since I haven't practiced the material I have learned much and I have yet to take one in this class.,1,exams_general+practice_problems
+"This is the first science class that I am taking in college, so I am a bit nervour for that. However, I am confident in my ability to succeed in this class.",1,first_college_course+doing_well
+keeping up w the pace (bc i dont have a strong chem background),1,course_pace+prior_knowledge_gap
+I am most nervous about learning new topics that I might be unfamiliar with and that might be hard to understand at first.,1,conceptual_understanding
+I am most nervous I will get behind in learning and doing practice problems and won't be able to catch up.,1,falling_behind+practice_problems
+I am most nervous about managing my time so that I keep up with the content and don’t wait until the last minute to study for exams.,1,time_management+falling_behind+exam_preparation_readiness
+"I'm most nervous about the course load. I have a lot of things going on, and I want to succeed and get an A in this class.",1,workload_general+doing_well+grades
+The midterms only being 15 questions--it doesn't give me any leeway for error. But I understand that it is up to me to prepare adequately for it.,1,exam_format_structure+exam_preparation_readiness
+This is a fast paced course with a lot of material so I'm nervous to get lost or confused on certain concepts but I will study extra on more concepts that confuse me when first introduced. I'm also nervous that most of this grade involves 2 exams and test taking makes me anxious a lot because I second guess my answers a lot.,1,course_pace+content_volume+conceptual_understanding+exams_general+test_anxiety
+Being able to take exams at ease.,1,test_anxiety
+This course is known as a notorious GPA killer and the concepts can be difficult to understand intuitively. I'm also trying to balance a new schedule outside of classes.,1,heard_difficult+gpa_impact+conceptual_understanding+balancing_life
+"chemical terms, only learned Chemistry in another language",1,terminology+english_proficiency
+I am very nervous because this is one of my first college classes so I don’t know how I will perform! Also I have not taken chemistry since 11th grade and have never taken AP Chemistry.,1,first_college_course+high_school_gap
+"The pace at which we are covering content is so quick, I feel like I am not absorbing all the information to it's fullest. I am simply relearning and then moving on. I want to practice internalizing the information given, I'm just not sure how.",1,course_pace+conceptual_understanding
+The content is difficult for me to understand so I am worried I won't have enough time to fully study and understand the material before my midterms.,1,conceptual_understanding+time_management+exam_preparation_readiness
+"I'm really nervous about the concepts in this course, as I've never really been introduced to all of this before, especially its application to math.",1,conceptual_understanding+math_calculations
+"Chem 14D is fast-paced and most of the concepts build upon each other throughout the quarter, so I am most nervous about solidifying my understanding of the course material early on and not falling behind.",1,course_pace+conceptual_understanding+falling_behind
+Forming study strategies in college (the new environment/change is really throwing me off),1,study_development+new_environment
+"I am worried about not putting enough time each week into studying and practicing the concepts learned in class. I am also worried that I will fall behind quickly, given my workload and extracurriculars this quarter. But I will try my best!",1,time_management+practice_problems+falling_behind+balancing_life
+Everything I’ve heard about organic chemistry in general,1,heard_difficult
+Drawing the products from the reaction,1,reactions_mechanisms
+The incredibly large number of reactions and mechanisms to learn and memorize inside and out,1,reactions_mechanisms+memorization_general
+"Memorizing reactions and things, fully understanding the concepts",1,memorization_general+reactions_mechanisms+conceptual_understanding
+"I did really well in 14A, but I feel like the lectures are structured much differently, so I feel like I'm going to have to teach myself a lot more for this class.",1,professor_teaching_style+self_teaching
+"I’ve always struggled in chemistry so I am nervous to take this class, however, so far I feel like I have learned and understood a lot of information from this course.",1,self_doubt
+I am most nervous about the first midterm because I really don't know what to expect and I feel like this class moves much faster than my previous chemistry courses.,1,exams_general+course_pace
+"As I begin this course, I am most nervous about creating study habits regarding the content being learned in class. I am also scared because I do not know what to expect for exams.",1,study_development+exams_general
+"Exam scores. I tend to understand the concepts but when it comes to the actual exam I make mistakes which lower my scores. In retrospect I can understand and correct them, but in the moment I can't see the mistakes.",1,exam_performance+test_anxiety
+"I've heard that organic chemistry is really hard so it's made me quite hesitant for this course. Also, I've generally not done well in chem courses.",1,heard_difficult+prior_negative_experience
+Staying motivated to keep up with studying.,1,motivation_burnout
+if the problems on exams don't match practice problems,1,exam_difficulty_level
+The midterms and finals.,1,exams_general
+Not enough practice sheets/questions; not being able to have individual time with professor due to schedule clashes,1,practice_problems+resource_utilization
+Being prepared enough to do well on midterms,1,exam_preparation_readiness
+Learning college level study habits.,1,study_development
+I am most nervous about the midterms/final.,1,exams_general
+not knowing how to study,1,study_effectiveness
+The midterms and how to recover from it if we do not do well on one.,1,exams_general+doing_well
+"I am most nervous about my first exam in this class, as I anticipate a bit of a learning curve in learning how to take and study for college-level exams.",1,first_college_course+exam_preparation_readiness
+..,1,nothing_specific
+I am most nervous about the change of style of teaching and test taking and how it will impact my scores.,1,professor_teaching_style+exam_format_structure
+I am most nervous about balancing this class with my other courses.,1,balancing_courses
+Keeping up the workload and finding enough practice problems to ensure that I am really understanding the material.,1,workload_general+practice_problems+conceptual_understanding
+Making sure I stay on track with the material throughout the quarter so that I don’t end up trying to catch up.,1,falling_behind
+If I still have the same study motivations as last year because of academic burnout,1,motivation_burnout
+The tests content,1,exams_general
+The material piling up before the midterms and finals with not enough time to fuylly understand it before being tested on it.,1,content_volume+time_management+exam_preparation_readiness
+I'm slightly worried I will go into an exam thinking it wont be too bad then get surprised and do poorly.,1,exam_difficulty_level
+"I am the most nervous that some chemistry concepts that are expected to be known, but I have not seen it in high school chemistry.",1,prior_knowledge_gap+high_school_gap
+Not being well prepared.,1,exam_preparation_readiness
+Memorization on certain topics and what the test structure will be like.,1,memorization_general+exam_format_structure
+Being able to teach myself the concepts after lecture is over,1,self_teaching
+Gaining a real understanding of chemistry that I will be able to use in my future coursework.,1,conceptual_understanding
+I am nervous about managing my time well and making sure I have a good understanding of the material.,1,time_management+conceptual_understanding
+"I’m not sure how exams are going to look, and if the midterms will be similar to our homework problem sets or more difficult.",1,exam_format_structure+exam_difficulty_level
+"I'm worried about how quickly the quarter goes by and how we learn material so fast (1 chapter/week). Some of the material is very difficult/not intuitive, so I am worried about having enough time to practice problems before exams.",1,course_pace+conceptual_understanding+time_management+practice_problems
+"I am nervous about the difficulty of tests since I am confident in problem sets, but an unsure how tests will look.  I have never taken a college test, and am not just nervous for chemistry, but my tests in every class to be clear.",1,exam_difficulty_level+first_college_course
+I guess I am just nervous about getting used to the college workflow.,1,first_college_course
+What the tests will look like,1,exam_format_structure
+"I am most nervous about the heavy memorization, difficult coursework, and managing my time. Due to the extracurriculars I am doing, I feel that I am always tired and do not have time to deepen my understanding. In addition, the peer learning sessions do not fit into my schedule. I also feel that I feel left behind by friends who previously took ochem,",1,memorization_general+time_management+balancing_life+resource_utilization+falling_behind
+"I am most nervous about aspects that require memorization, as I do best with conceptual logic and understanding",1,memorization_general
+Tests and grasping to material for the MCAT later on.,1,exams_general+conceptual_understanding
+"Time management, not falling behind with course materials",1,time_management+falling_behind
+just remembering every little detail that i need to know,1,memorization_general
+I think applying concepts that I understand to actual problems will be my most difficult challenge of this course,1,application_problems
+"Don't have enough time to prepare myself for the upcoming exams, insufficient amount of practice exams to work on",1,time_management+exam_preparation_readiness+practice_problems
+Advanced O-chem,1,heard_difficult
+Not understanding foundational concepts that will be further built upon.,1,prior_knowledge_gap+conceptual_understanding
+"Getting questions answered since office hours are so busy, and figuring out the best ways to study to prep for exams",1,resource_utilization+study_development+exam_preparation_readiness
+"The first test is always the hardest, especially in this new environment.",1,exams_general+new_environment
+not retaining enough info from previous courses,1,prior_knowledge_gap
+being a transfer,1,transfer_student
+Mostly just memorizing all the rules and techniques in order to answer and calculate the problems properly.,1,memorization_general+application_problems+math_calculations
+"I'm nervous for grasping these concepts in a short time, since the quarter goes by fast. I know that practicing is the priority for any chemistry course, but before I practice for me it's important that I understand the steps I am doing and understanding the concepts takes the most time. I have to spend time reading/lecture slides before. practice.",1,conceptual_understanding+quarter_system+course_pace+practice_problems
+I have bad memory,1,memorization_general
+"I struggled with getting started in CHEM 30A, so I am nervous about starting slowly to understand the content and do well in the class from the get go.",1,prior_negative_experience+conceptual_understanding+doing_well
+Understanding the foundational concepts and getting lost fast.,1,prior_knowledge_gap+conceptual_understanding+course_pace
+Keeping up with the material,1,falling_behind
+Not knowing something before exams.,1,exam_preparation_readiness
+Being able to learn/study effectively enough to earn an A on the midterms and final exam.,1,study_effectiveness+grades
+"I am most nervous about how self-paced it is, considering I am a first year and do not know what to expect.",1,self_teaching+first_college_course
+I am most nervous about being able to fully understand all of the slight nuances in the content we are studying.,1,conceptual_understanding
+I'm nervous about doing well on exams just because it's going to be a lot of material and it's going to require a lot of studying.,1,doing_well+content_volume
+"I am very concern about the material from 30a. it has been a summer since i've learned the class, and since 30b is just a continuation of it and requires all of the concepts from it, i feel very unsure about my performance in this class.",1,thirtyA_specific+time_since_chem
+Managing my time effectively with my other classes,1,time_management+balancing_courses
+"I'm most nervous about losing the study strategies I was able to create when taking chemistry last quarter, and I'm afraid I lost those strategies over the long summer.",1,study_effectiveness
+Coming across exceedingly hard questions that I am unprepared for.,1,exam_difficulty_level+exam_preparation_readiness
+"I am currently worried about the quantum. I do not have a physics background, and I know I need more help.",1,specific_topic+prior_knowledge_gap
+Falling behind on work and getting lost on concepts,1,falling_behind+conceptual_understanding
+I am most nervous about this class' workload in context with the workload I have with Lifescience 7C.,1,workload_general+balancing_courses
+I’m just nervous about being able to retain all the information that comes with solving each problem.,1,memorization_general+application_problems
+The difficulty of the content.,1,conceptual_understanding
+I'm a little nervous about portioning out enough time for practice problems.,1,time_management+practice_problems
+Balancing studying with other work.,1,balancing_life
+Remembering past concepts needed to succeed in this course,1,prior_knowledge_gap
+Adjusting to the style of questions on the exam,1,exam_format_structure
+Balancing coursework with other extracurriculars,1,balancing_life
+"I worry about not falling behind on concepts, but it is not something I worry much about.",1,falling_behind+not_nervous
+I have a 4 year knowledge gap from when I last took organic chemistry to now.,1,time_since_chem
+I am most nervous about Mid Terms and the Final.,1,exams_general
+Remembering all the equations and when to apply then on midterm,1,memorization_general+math_calculations+application_problems
+I am nervous that test questions will not be similar to question examples in class or on the homework.,1,exam_difficulty_level
+How the tests would look vs the practice tests if we get any.,1,exam_format_structure+practice_problems
+"I am most nervous about remembering and applying concepts from 30A into this course, as I am not sure exactly how much I remember from the previous course.",1,thirtyA_specific+application_problems
+being able to apply the concepts on tests,1,application_problems
+That I will fall behind as we learn concepts and not understand the steps of a problem,1,falling_behind+conceptual_understanding
+My study habits and how it will affect my stress level for this course.,1,study_effectiveness
+I am most nervous about the tests and what questions might appear.,1,exams_general
+"just getting back into chem, i haven’t done chemistry since my sophomore year of high school",1,high_school_gap
+There’s so much content and so many details the professor expects we know so I’m worried about keeping up and knowing how to do every single problem or know every single formula.,1,content_volume+falling_behind+application_problems
+big exams/midterms and being underprepared,1,exams_general+exam_preparation_readiness
+Keeping up with the study habits I am hoping to maintain throughout the year,1,study_effectiveness
+Being able to understand the material,1,conceptual_understanding
+Exam Difficulty,1,exam_difficulty_level
+Conceptual questions.,1,conceptual_understanding
+I am most nervous about being able to do well on exams.,1,doing_well
+I am nervous about making sure I can close the knowledge gap between what I know and what my professor expects me to know by the test. I hope the test isn't unreasonably difficult,1,prior_knowledge_gap+exam_difficulty_level
+"I am most nervous about the workload and the questions being asked on midterms and finals. I believe that I have a strong background in Chemistry, but I am worried about the amount of workload, different teaching style, and falling behind due to not understanding the content.",1,workload_general+exams_general+professor_teaching_style+falling_behind+conceptual_understanding
+I’m mainly nervous about keeping track of all the assignments I have to complete. The assignments are very specific and keeping track of them is difficult.,1,assignment_tracking
+Theory based stuff or really anything that relies on memorization.,1,memorization_general
+Performing well on the exams.,1,doing_well
+Lacking pre-knowledge to understand the current content,1,prior_knowledge_gap
+"I had not taken any chemistry classes prior, except for a khan academy course over the summer.",1,prior_knowledge_gap
+I’m nervous about the possibility of the exams having concepts k haven’t prepped enough for or that they are much more challenging than I expectz,1,exam_preparation_readiness+exam_difficulty_level
+time management with other courses,1,time_management+balancing_courses
+"What I'm most concerned about in this course are the pre-lab and post-lab grading, as well as the exams.",1,lab_workload+exams_general
+I'm worried that I won't be able to memorize everything that I need to know for this class.,1,memorization_general
+Not having taken chemistry in the last two years of school and needing to work even harder than people who are already familiar with some concepts.,1,time_since_chem+prior_knowledge_gap
+Managing my time and studying efficiently and effectively.,1,time_management+study_effectiveness
+the final exam,1,cumulative_final
+"Honestly the exams, I heard 14bl can appear to go well the thesis term and final really plummets your grade, I just want it do well and get an A or B which is not what I’m used to in chemistry. Honesty this class gives me anxiety because of my previous experience with chem at this school.",1,exams_general+heard_difficult+grades+prior_negative_experience
+The prelab assignments and the less direction in labs than my past classes.,1,lab_workload
+Understanding chemistry processes and remembering these processes to solve the questions.,1,conceptual_understanding+memorization_general
+"I'm mostly nervous about the introduction to quantum mechanics being present on exams, as I struggled to grasp the concept well.",1,specific_topic
+I am most nervous about the midterms and finals with this course. I hope that all the homework and assignments will prepare me to succeed.,1,exams_general
+"I'm nervous about the exams being a lot harder than the problem sets and discussion worksheets we're given in class. I don't expect them to be easy because some things on the worksheets themselves are hard, but I am nervous the tests are going to go past the bounds of what we were supposed to know and become what we ""should know"" too.",1,exam_difficulty_level+exam_preparation_readiness
+Failing,1,failing
+My performance on midterms and finals.,1,doing_well
+Keeping up with the pace of the course and remembering detailed information.,1,course_pace+memorization_general
+Studying habits and the pace of the course.,1,study_effectiveness+course_pace
+"I am very worried about failing my exams. I am confident on material when I study, but when I get to the exam I blank out.",1,exams_general+test_anxiety
+I am nervous for the midterm.,1,exams_general
+The amount of material and the fast pace,1,content_volume+course_pace
+My professor Ngo is said to be really hard. Her exams are not a reflection of what we learn. I am concerned seeing as even the TA’s last year said her class is not the best,1,heard_difficult+exam_difficulty_level+professor_teaching_style
+Managing my time going from a semester system to a quarter one.,1,time_management+quarter_system
+I’m unsure about my abilities to perform activities in lab settings. I’m not sure I have identified strategies to finish in time and get accurate and precise results.,1,lab_skills+lab_pacing
+sucking at lab skills,1,lab_skills
+I am nervous about remembering the content from 14B on my own time as I took that class a year ago,1,prior_knowledge_gap+time_since_chem
+"Adjusting to the fast pace of the quarter system. I know 10 weeks can feel quick, so I'm ready to adapt and take advantage of all the office hours/resources that are provided to us.",1,course_pace+quarter_system+resource_utilization
+I am most nervous about the theoretical aspect of chemistry rather than the mathematical aspect.,1,conceptual_understanding
+"I’m worried about the difficulty of the concepts and fast pace of the course, and also worried that I won’t have enough time to do many practice problems.",1,conceptual_understanding+course_pace+practice_problems
+studying,1,study_effectiveness
+The workload and my performance in exams.,1,workload_general+doing_well
+The professor assuming that I already have knowledge of high school chemistry content when I don’t,1,high_school_gap+prior_knowledge_gap
+Knowing which formulas to use when solving word problems,1,application_problems+math_calculations
+Exam anxiety,1,test_anxiety
+I am worried I will not be able to succeed and that I am not smart enough for this course.,1,doing_well+self_doubt
+I feel like I have a tough time understanding concepts so I am worried to be tested on it even though I have good study habits.,1,conceptual_understanding
+Doing math in the class.,1,math_calculations
+Keeping up with all of the information.,1,falling_behind
+About connecting all of the chapters together and understanding them.,1,conceptual_understanding
+Not doing all of the practice problems.,1,practice_problems
+I'm nervous about how fast paced everything is and generally adjusting to the quarter system and my teacher's teaching/testing style.,1,course_pace+quarter_system+professor_teaching_style
+The exams and concepts.,1,exams_general+conceptual_understanding
+I am most nervous about falling behind unexpectedly and not being able to recover.,1,falling_behind
+I am most nervous about not preparing my pre lab enough for the experiment that week,1,lab_workload
+It being a lab class.,1,lab_skills
+"i am just hoping to stay caught up with everything, I tend to get overwhelmed with all the pre-labs and post-labs on top of other classes as I feel like the time just slips away, so I hope to stay on top of that this quarter.",1,falling_behind+lab_workload+balancing_courses+time_management
+The lack of graded homework makes managing my own time intimidating and the reputation for difficulty with organic chemistry precedes the class,1,course_organization+time_management+heard_difficult
+"It has been around two years since I took an organic chemistry course, so I fear that gap has me at a disadvantage. Nevertheless, I will try my best to keep up with the course material.",1,time_since_chem
+I am most nervous for the final because I have heard that it is unprecedented in difficultly. I am also stressed about completing the labs in time.,1,cumulative_final+heard_difficult+lab_pacing
+Feeling lost,1,conceptual_understanding
+"I head there may be calculus involved at some points, but even with that there's not really anything in Gen Chem that I'm too worried about.",1,math_calculations+not_nervous
+"I need a lot of tutoring, and often office hours can't answer my questions. I fear I will not be prepared for exams",1,resource_utilization+asking_for_help+exam_preparation_readiness
+How much math is involved and the concepts I need to remember,1,math_calculations+memorization_general
+The amount of memorization,1,memorization_general
+I am nervous about keeping track of deadlines and properly estimating the amount of time it will take me to complete assignments for time management purposes. I am also nervous about not fully understanding the material well enough to be confident in my exam performance or the end of quarter presentation.,1,assignment_tracking+time_management+conceptual_understanding+confidence_issues
+I am most nervous about falling behind. The concepts are all connected and I am scared that if I miss one thing I am doomed to fail. I am also nervous about asking for help as I often do not know how to vocalize where my confusion lies therefore I stay silent,1,falling_behind+asking_for_help
+"I feel like I dont really think in the technical terms of chem, I need to simplify it to understand, so I get lost when listening to people speak because it takes me a long time to translate it. I think I am mostly nervous about understanding the material in a way that makes sense",1,terminology+conceptual_understanding
+Most nervous about my own time management and my ability to figure out concepts and practice problems independently of lecture. Need to develop my own time management skills.,1,time_management+conceptual_understanding+practice_problems+self_teaching+study_development
+"Randomly difficult exam questions that are vastly different from practice questions, and having to study so much that I have no time to do anything else.",1,exam_difficulty_level+practice_problems+time_management
+Readjusting to the pace and applying previous learned concepts efficiently to not fall behind,1,course_pace+application_problems+falling_behind
+The fact that it feels like I am on my own to learn because there is good place to learn in a smaller group setting because discussion is online and there are no problem solving sessions.,1,self_teaching+class_size+zoom_online
+Getting used to the format and pace of a quarter system college class in my first quarter as a UCLA student,1,exam_format_structure+course_pace+quarter_system+first_college_course
+"Time, and balancing other classes/ extracurriculars",1,time_management+balancing_courses+balancing_life
+I am most nervous about memorizing a lot of the reactions.,1,memorization_general+reactions_mechanisms
+"Not being able to keep up or understand the concepts, struggling to learn the material",1,falling_behind+conceptual_understanding
+messing up my labs,1,lab_skills
+Difficulty of exams compared to class/discussion/homework.,1,exam_difficulty_level
+studying for college level exams and not falling behind on studying as it is very fast paced with the quarter system,1,exams_general+falling_behind+course_pace+quarter_system
+Taking multiple midterms at the same time. All my classes have midterms the same week and I’m nervous about studying for them and making sure I still do well.,1,multiple_exams+time_management+doing_well
+actual short response questions and lab report formatting,1,exam_format_structure+lab_workload
+"I am nervous about the tests and how much of an impact they have on my grade. I tend to understand topics in class but when they are put in a different format, I struggle. I hope that doesn't happen in this class.",1,exams_general+exam_format_structure+application_problems
+I am most nervous about failing my midterms and my final.,1,failing
+I am most nervous about the overwhelming material;.,1,content_volume
+I need to manage my time and stay current with the independent problems,1,time_management+falling_behind
+"Conceptually breaking down the word problems and not getting lost/fixated on the math, rather focus more on its application.",1,conceptual_understanding+application_problems
+Performing well on exams and being able to apply the material to exam questions.,1,doing_well+application_problems
+Transitioning from the 14 AB series into the 30 series.,1,prior_knowledge_gap
+"Making up for the deficit in material that was not covered in my Organic Chemistry 1 course and having to learn material from both courses at the same time, essentially playing catch-up while also keeping up with new material.",1,prior_knowledge_gap+content_volume+falling_behind
+Pacing myself as the achieve is all due on the very last day of class.,1,assignment_tracking+time_management
+I am nervous because the exams are worth so much of my grade. I am also nervous because the lecturers are not very helpful.,1,exams_general+resource_utilization
+"As I begin Chem 20A, I’m most nervous about the midterms. I’m worried about encountering problems I don’t know how to solve, but I hope that by writing out the correct formulas and showing my work, I can still earn some partial credit.",1,exams_general+application_problems
+"Chemical equations, expected VS actual yield. Those are topics I have struggled to understand in the past",1,specific_topic+prior_negative_experience
+I am most nervous about exams in this class,1,exams_general

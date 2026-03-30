@@ -1,0 +1,40 @@
+,theme_id,primary_category,secondary_category,description,keywords,usernames,comments
+0,AW001,AWARENESS/KNOWLEDGE,did_not_knew,General statements about not knowing it existed,"did not know,didn't know,wasn't aware,not aware,never heard,no idea,never knew",Clueless_Student,I didn't know it existed.
+1,AW002,AWARENESS/KNOWLEDGE,unaware_of_resource,Specific mention of not being aware of this particular resource,"unaware of this,wasn't aware of it,not aware of it,never heard of it",UnawareOfThis,I wasn't aware of this resource.
+2,AW003,AWARENESS/KNOWLEDGE,first_hearing,Learned about it for first time through this survey,"just now,first time hearing,never heard until now,this survey",JustFoundOut,I'm hearing about it for the first time.
+3,AW004,AWARENESS/KNOWLEDGE,forgot,Knew about it but forgot,"forgot,i forgot,forgot about it,slipped my mind",ForgotAboutIt,I knew about it but forgot.
+4,TM001,TIME/SCHEDULING,no_time,General lack of time,"no time,no time.,didn't have time,did not have time,not enough time",NoTimeEver,I didn't have time.
+5,TM002,TIME/SCHEDULING,schedule_conflict,Conflicts with classes work or other commitments,"time conflict,schedule conflict,class conflict,clashed,overlap,conflicted with",ScheduleClash,I had a schedule conflict.
+6,TM003,TIME/SCHEDULING,commuter_issues,Difficulty scheduling around commute,"commute,commuter,not on campus,travel",CommuterLife,I couldn't make it work with my commute.
+7,TM004,TIME/SCHEDULING,busy_schedule,Overwhelmed with other responsibilities,"busy schedule,busy quarter,too busy,packed schedule,hectic",TooBusyQuarter,My schedule was too busy.
+8,ND001,PERCEIVED NEED,did_not_need,General statements about not needing it,"didn't need,did not need,no need,not needed,don't need",DidntNeedIt,I didn't feel like I needed it.
+10,ND003,PERCEIVED NEED,already_understanding,Understood the material well enough,"understood,grasped,confident,knew material,comfortable with",AlreadyGotIt,I already understood the material.
+11,ND004,PERCEIVED NEED,doing_well,Performing adequately without it,"doing well,performing well,good grade,successful,not struggling",DoingAlright,I was doing well without it.
+13,AR001,ALTERNATIVE RESOURCES,used_office_hours,Attended professor or TA office hours,"office hours,TA,professor,Dr.,office hour",OfficeHoursGang,I used office hours instead.
+14,AR002,ALTERNATIVE RESOURCES,used_study_groups,Studied with friends or classmates,"study group,friends,classmates,peers,with friends,group of friends",StudyGroupSquad,I studied with friends instead.
+15,AR003,ALTERNATIVE RESOURCES,used_other_tutoring,Used other tutoring programs,"AAP,PLF,step-up,workshop,Campbell Hall,tutoring club,peer learning elsewhere",OtherTutoring,"I used other tutoring programs (eg AAP,PLF,step-up,workshop,Campbell Hall,tutoring club,peer learning elsewhere)".
+16,AR004,ALTERNATIVE RESOURCES,used_online_resources,Used textbook online forums YouTube etc,"textbook,online,YouTube,Chemistry Community,forum,video",OnlineResources,I used online resources instead.
+17,AR005,ALTERNATIVE RESOURCES,used_professor_sessions,Attended professor-organized review sessions,"professor sessions,review session,professor review",ProfessorReview,I went to professor review sessions.
+18,PL001,PREFERENCE/STYLE,prefer_self_study,Prefer studying alone,"prefer alone,learn better alone,by myself,own space,self-study better",AloneTime,I prefer studying alone.
+19,PL002,PREFERENCE/STYLE,prefer_small_groups,Prefer studying with people they know,"people I know,friends,small group,acquaintances",KnownFaces,I prefer studying with people I know.
+20,PL003,PREFERENCE/STYLE,group_distraction,Find group study distracting,"distracted,distracting,lose focus,not focused",GroupDistraction,I find group study distracting.
+21,PL004,PREFERENCE/STYLE,dislike_peer_learning,Negative past experiences or general dislike,"dislike,don't like,not a fan,bad experience,blind leading blind",NotAFan,I don't really like peer learning.
+22,PL005,PREFERENCE/STYLE,social_anxiety,Anxious about attending alone or with strangers,"anxiety,nervous,intimidated,scared alone,afraid",Anxiety_Alone,I was nervous about going alone.
+23,LG001,LOGISTICS/ACCESSIBILITY,location_issues,Room hard to find too far or inconvenient,"location,room,MS3974,hard to find,far,inconvenient",CantFindRoom,I couldn't find the room.
+24,LG002,LOGISTICS/ACCESSIBILITY,communication_issues,Not enough announcements or hard to find information,"announcements,communication,information,advertising,not mentioned,never said",NeverHeardAboutIt,There weren't enough announcements about it.
+25,LG003,LOGISTICS/ACCESSIBILITY,signup_issues,Problems signing up or thought it was full,"sign up,enroll,enrollment,full,capacity,register",ThoughtItWasFull,I thought it was full or had to sign up.
+26,LG004,LOGISTICS/ACCESSIBILITY,eligibility_confusion,Thought it was only for certain programs,"AAP,PEERS,eligible,qualify,only for,not for me",NotForMe,I thought it was only for certain programs.
+27,LG005,LOGISTICS/ACCESSIBILITY,format_uncertainty,Unsure how sessions worked or what to expect,"format,what is it,how it works,what to expect,unsure what",DidntKnowWhatToExpect,I wasn't sure how the sessions worked.
+28,PE001,PERCEIVED EFFECTIVENESS,not_helpful,Didn't think it would be helpful,"not helpful,wouldn't help,not useful,not beneficial",WouldntHelp,I didn't think it would be helpful.
+29,PE002,PERCEIVED EFFECTIVENESS,ineffective_past,Past experiences weren't helpful,"past experience,previous,been before,wasn't helpful",BeenBefore_NotHelpful,I went before and it wasn't helpful.
+30,PE003,PERCEIVED EFFECTIVENESS,blind_leading_blind,Skeptical about peer-led learning quality,"blind leading blind,students teaching,not qualified",BlindLeadingBlind,I'm skeptical about students teaching.
+31,PE004,PERCEIVED EFFECTIVENESS,ta_better,Believed TA or professor help was more effective,"TA better,professor better,more helpful,more effective",TABetter,I think TA or professor help is better.
+32,AT001,DID ATTEND,attended_this,Attended MS3974 peer learning,"did attend,attended,went there,was there,i went",WentThere,I did attend the peer learning.
+33,AT002,DID ATTEND,attended_other_location,Attended peer learning elsewhere,"Campbell Hall,Young Hall,other location,different room",WentElsewhere,I attended peer learning at another location.
+34,AT003,DID ATTEND,attended_other_format,Attended UA sessions workshops step-ups,"UA session,step-up,workshop,PLF",WentToUA,I attended UA sessions or step-ups instead.
+35,AT004,DID ATTEND,found_helpful,Found the sessions beneficial,"helpful,useful,beneficial,great,good",ActuallyHelpful,I found the sessions helpful.
+36,OT001,OTHER/MISC,no_response,Blank or N/A responses,".,na,n/a,-,no response",NoResponse,No response
+37,OT002,OTHER/MISC,other_commitments,Work extracurriculars or family obligations,"work,job,extracurricular,family,obligations,responsibilities",OtherCommitments,I had work or other obligations.
+38,OT003,OTHER/MISC,personal_issues,Mental health illness or personal problems,"mental health,sick,illness,personal issues,struggling",PersonalIssues,I had personal issues going on.
+39,OT004,OTHER/MISC,too_lazy,Self-identified lack of motivation,"lazy,didn't get around,never made it,not motivated",NeverMadeIt,I was too lazy to go.
+40,OT005,OTHER/MISC,other,Responses that don't fit other categories,"miscellaneous,other",Miscellaneous,Other reasons.

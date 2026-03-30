@@ -1,0 +1,47 @@
+code,category,description,keywords,sentiment
+SP001,Space/Setting,Lecture - Connected,"connected in lecture,during lecture I feel connected,professor makes lecture engaging",positive
+SP002,Space/Setting,Lecture - Disconnected,"disconnected in lecture,lecture too large,can't ask questions in lecture,lecture feels distant",negative
+SP003,Space/Setting,Discussion - Connected,"connected in discussion,discussion helps,during discussion",positive
+SP004,Space/Setting,Discussion - Disconnected,"discussion online,zoom discussion,disconnected in discussion,online discussion difficult",negative
+SP005,Space/Setting,Office Hours - Connected,"office hours,OH,TA office hours connected",positive
+SP006,Space/Setting,Office Hours - Issues,"office hours crowded,can't get help in OH,too many people in OH",negative
+SP007,Space/Setting,Peer Learning Sessions,"UA workshop,step-up,workshop session,peer learning",positive
+SP008,Space/Setting,Small Group Settings,"small group,smaller setting,small class size",positive
+SP009,Space/Setting,Chemistry Community Forum,"chemistry community,forum,online forum",neutral
+SP010,Space/Setting,Lab/Hands-on Settings,"lab,lab mates,fume hood partners,in lab",positive
+SP011,Space/Setting,Outside Class Study,"study group,studying with friends,outside class",positive
+CT001,Connection Trigger,Peer Collaboration,"working with others,collaborating,group work,discussing with peers",positive
+CT002,Connection Trigger,Shared Struggle,"others struggling too,not only me,everyone confused,brothers in arms",positive
+CT003,Connection Trigger,Teaching Others,"pass on what I learned,helping others,teaching peers",positive
+CT004,Connection Trigger,Asking Questions,"ask questions,able to ask,questions welcomed",positive
+CT005,Connection Trigger,Receiving Help,"get help,questions answered,support from TAs/professors",positive
+CT006,Connection Trigger,Understanding Material,"understand,something clicks,grasping concept,know what's going on",positive
+CT007,Connection Trigger,Instructor Engagement,"professor open to questions,instructor acknowledges difficulty,engaging lectures",positive
+CT008,Connection Trigger,One-on-One Interaction,"1 on 1,individual help,personal interaction",positive
+CT009,Connection Trigger,Real-world Connection,"apply to outside world,overlap with biology,real life examples",positive
+CT010,Connection Trigger,Active Learning,"active engagement,working through problems,practice problems",positive
+CT011,Connection Trigger,Feedback,"feedback from peers,confirmation,getting corrected",positive
+DT001,Disconnection Trigger,Large Class Size,"so many people,large lecture,300 students,too many",negative
+DT002,Disconnection Trigger,Online Format,"online discussion,zoom,remote,virtual",negative
+DT003,Disconnection Trigger,Being Alone/No Friends,"no friends,don't know anyone,alone,out of place",negative
+DT004,Disconnection Trigger,Feeling Behind,"only one who doesn't understand,behind,others get it,left behind",negative
+DT005,Disconnection Trigger,Pace Too Fast,"too fast,rushed,whiz through,moves on quickly",negative
+DT006,Disconnection Trigger,Confusion/Lost,"don't understand,lost,confused,not grasping",negative
+DT007,Disconnection Trigger,Fear of Asking Questions,"shy,nervous,scared to ask,anxious,judged",negative
+DT008,Disconnection Trigger,Poor Instructor Communication,"reads off slides,not explaining,hard to understand accent,talks at us",negative
+DT009,Disconnection Trigger,Lack of Interaction,"no interaction,can't talk,just processing in head",negative
+DT010,Disconnection Trigger,Peer Comparison,"others more prepared,knowledge gap,others ahead",negative
+DT011,Disconnection Trigger,Lack of Help/Support,"no one responds,can't get help,ignored",negative
+DT012,Disconnection Trigger,Intimidation,"cutthroat,intimidated,people take over",negative
+DT013,Disconnection Trigger,Unclear Expectations,"expectations unclear,don't know how to succeed",negative
+PD001,Peer Dynamics,Friends/Know People,"friends,people I know,roommates,study partners",positive
+PD002,Peer Dynamics,Strangers/Unfamiliar,"don't know them,strangers,unfamiliar people",negative
+PD003,Peer Dynamics,Welcoming Environment,"nice,welcoming,helpful peers,open",positive
+PD004,Peer Dynamics,Unhelpful Peers,"people don't help,everyone to themselves,no collaboration",negative
+IF001,Individual Factor,Preparation/Prior Knowledge,"review,prior knowledge,already familiar",neutral
+IF002,Individual Factor,Major/Identity,"pre-med,transfer student,not chemistry major,life sciences",neutral
+IF003,Individual Factor,Motivation/Interest,"interest,excitement,lack of interest",neutral
+IF004,Individual Factor,Performance/Grades,"good grades,doing well,performance",neutral
+IF005,Individual Factor,Study Habits,"study on my own,prepare before class",neutral
+MB001,Mixed/Balanced,Connected in X Disconnected in Y,"connected in discussion disconnected in lecture,connected when disconnected when",neutral
+MB002,Mixed/Balanced,Conditional Connection,"connected when..., disconnected when...",neutral
