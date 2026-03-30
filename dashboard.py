@@ -606,6 +606,17 @@ def Qualitative_Responses():
         st.error(f"Could not load data: {e}")
         st.stop()
 
+    st.write("")
+    with st.expander("ℹ️ How to read this page"):
+        st.markdown("""
+        This page displays student responses to open-ended survey questions, organized like a Reddit thread.
+        Reddit is a popular social media platform where people post and comment. Here, each survey question
+        is a "post," and each response theme is a "comment." The responses shown are representative quotes
+        drawn from real student answers, which were read, tagged, and grouped by theme. The **upvote count (▲)**
+        next to each response shows how many students expressed that same sentiment. Comments are sorted from
+        most to least common, so the themes at the top reflect what the most students said.
+        """)
+    
     st.markdown(
         "<p style='font-size:13px;color:#818384;margin:8px 0 4px'>Click a question to open the thread:</p>",
         unsafe_allow_html=True,
