@@ -72,6 +72,29 @@ def load_data():
 
 results = load_data()
 
+# ── Mobile warning ───────────────────────────────────────────────────────────
+
+def mobile_warning():
+    components.html("""
+    <style>
+    .mobile-warn {
+    display: none;
+    background: #ff4500;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-family: sans-serif;
+    font-size: 13px;
+    }
+    @media (max-width: 600px) {
+    .mobile-warn { display: block; }
+    }
+    </style>
+    <div class="mobile-warn">
+    📊 This website is optimized for desktop. Some charts may be hard to read on mobile.
+    </div>
+    """, height=80)
+
 
 # Overview Chart
 # --------------
@@ -122,9 +145,11 @@ def Overview():
         )
         return fig
 
+    st.write("")
+    mobile_warning()
     st.header("How did responses change?")
     st.caption("Percent agree by question (pre → post change). Averaged across all courses with n ≥ 30 for both surveys.")
-    st.plotly_chart(make_overview_chart(results), width="content")
+    st.plotly_chart(make_overview_chart(results), use_container_width=True)
 
 # Question Charts
 # --------------
@@ -313,8 +338,10 @@ def Quantitative_Responses():
         # ),
     )
 
+    # st.write("")
+    mobile_warning()
     st.header(selected_question)
-    st.plotly_chart(fig, width="content")
+    st.plotly_chart(fig, use_container_width=True)
 
     # ── Summary stats below chart ────────────────────────────────────────────────
     st.divider()
@@ -345,10 +372,10 @@ def Qualitative_Responses():
     @st.cache_data
     def load_data():
         qs = {
-            "nervous":          pd.read_csv("tagged_qualitative/deepseek_tagged_nervous.csv"),
-            "when_connected":   pd.read_csv("tagged_qualitative/deepseek_tagged_when_connected.csv"),
-            "learn_best":       pd.read_csv("tagged_qualitative/deepseek_tagged_learn_best.csv"),
-            "why_peer_learning":pd.read_csv("tagged_qualitative/deepseek_tagged_why_peer_learning.csv"),
+            "nervous":          pd.read_csv("tagged_qualitative/nervous.csv"),
+            "when_connected":   pd.read_csv("tagged_qualitative/when_connected.csv"),
+            "learn_best":       pd.read_csv("tagged_qualitative/learn_best.csv"),
+            "why_peer_learning":pd.read_csv("tagged_qualitative/why_peer_learning.csv"),
         }
         codebooks = {
             "nervous":          pd.read_csv("codebooks2/nervous.csv"),
@@ -607,6 +634,7 @@ def Qualitative_Responses():
         st.stop()
 
     st.write("")
+    mobile_warning()
     with st.expander("ℹ️ How to read this page"):
         st.markdown("""
         This page displays student responses to open-ended survey questions, organized like a Reddit thread.
@@ -626,7 +654,7 @@ def Qualitative_Responses():
     for col, (q_key, question) in zip(cols, QUESTION_LABELS.items()):
         flair_color, flair_bg = FLAIR_COLORS[q_key]
         label = question# [:42] + "…"
-        if col.button(label, key=f"nav_{q_key}", width="content"):
+        if col.button(label, key=f"nav_{q_key}", use_container_width=True):
             st.session_state.page = "thread"
             st.session_state.selected_q = q_key
             st.rerun()

@@ -51,7 +51,7 @@ codebook[["usernames", "comments"]] = pd.DataFrame(other_cols, columns=["usernam
 
 codebook.to_csv("codebooks2/why_peer_learning.csv")
 
-tagged_responses = pd.read_csv("tagged_qualitative/deepseek_tagged_why_peer_learning.csv")
+tagged_responses = pd.read_csv("tagged_qualitative/why_peer_learning.csv")
 tag_mapping = codebook.set_index("theme_id")["secondary_category"].to_dict()
 tagged_responses["tags"] = tagged_responses["tags"].map(lambda tags: '+'.join([tag_mapping.get(tag, tags) for tag in tags.split("+")]))
-tagged_responses.to_csv("tagged_qualitative/deepseek_tagged_why_peer_learning.csv")
+tagged_responses.to_csv("tagged_qualitative/why_peer_learning.csv")

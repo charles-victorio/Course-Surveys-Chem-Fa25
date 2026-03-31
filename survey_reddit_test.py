@@ -11,10 +11,10 @@ st.set_page_config(page_title="Survey Responses", layout="wide")
 @st.cache_data
 def load_data():
     qs = {
-        "nervous":          pd.read_csv("tagged_qualitative/deepseek_tagged_nervous.csv"),
-        "when_connected":   pd.read_csv("tagged_qualitative/deepseek_tagged_when_connected.csv"),
-        "learn_best":       pd.read_csv("tagged_qualitative/deepseek_tagged_learn_best.csv"),
-        "why_peer_learning":pd.read_csv("tagged_qualitative/deepseek_tagged_why_peer_learning.csv"),
+        "nervous":          pd.read_csv("tagged_qualitative/nervous.csv"),
+        "when_connected":   pd.read_csv("tagged_qualitative/when_connected.csv"),
+        "learn_best":       pd.read_csv("tagged_qualitative/learn_best.csv"),
+        "why_peer_learning":pd.read_csv("tagged_qualitative/why_peer_learning.csv"),
     }
     codebooks = {
         "nervous":          pd.read_csv("codebooks2/nervous.csv"),

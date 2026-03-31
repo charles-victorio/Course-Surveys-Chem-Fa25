@@ -528,10 +528,10 @@ why_peer_learning = dfs['w10s1'].why_peer_learning.value_counts()
 
 # tagged_responses
 qs = {
-    "nerv": pd.read_csv("tagged_qualitative/deepseek_tagged_nervous.csv"),
-    "conn": pd.read_csv("tagged_qualitative/deepseek_tagged_when_connected.csv"),
-    "learn": pd.read_csv("tagged_qualitative/deepseek_tagged_learn_best.csv"),
-    "peerl": pd.read_csv("tagged_qualitative/deepseek_tagged_why_peer_learning.csv"),
+    "nerv": pd.read_csv("tagged_qualitative/nervous.csv"),
+    "conn": pd.read_csv("tagged_qualitative/when_connected.csv"),
+    "learn": pd.read_csv("tagged_qualitative/learn_best.csv"),
+    "peerl": pd.read_csv("tagged_qualitative/why_peer_learning.csv"),
 }
 
 tag_counts = {}
