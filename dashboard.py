@@ -75,7 +75,7 @@ results = load_data()
 # ── Mobile warning ───────────────────────────────────────────────────────────
 
 def mobile_warning():
-    components.html("""
+    st.markdown("""
     <style>
     .mobile-warn {
     display: none;
@@ -83,17 +83,18 @@ def mobile_warning():
     color: #fff;
     padding: 8px 12px;
     border-radius: 4px;
-    font-family: sans-serif;
     font-size: 13px;
+    margin-top: 30px;
+    margin-bottom: 5px;
     }
     @media (max-width: 600px) {
     .mobile-warn { display: block; }
     }
     </style>
     <div class="mobile-warn">
-    📊 This website is optimized for desktop. Some charts may be hard to read on mobile.
+    📊 This page is optimized for desktop. Some charts may be hard to read on mobile.
     </div>
-    """, height=80)
+    """, unsafe_allow_html=True)
 
 
 # Overview Chart
@@ -145,7 +146,6 @@ def Overview():
         )
         return fig
 
-    st.write("")
     mobile_warning()
     st.header("How did responses change?")
     st.caption("Percent agree by question (pre → post change). Averaged across all courses with n ≥ 30 for both surveys.")
@@ -155,8 +155,10 @@ def Overview():
 # --------------
 
 def Quantitative_Responses():
-    st.text("") # spacing
 
+    mobile_warning()
+
+    # st.text("") # spacing
     # Question Selector
     questions = list(question_to_code.keys())
 
@@ -338,8 +340,6 @@ def Quantitative_Responses():
         # ),
     )
 
-    # st.write("")
-    mobile_warning()
     st.header(selected_question)
     st.plotly_chart(fig, use_container_width=True)
 
@@ -633,7 +633,7 @@ def Qualitative_Responses():
         st.error(f"Could not load data: {e}")
         st.stop()
 
-    st.write("")
+    # st.write("")
     mobile_warning()
     with st.expander("ℹ️ How to read this page"):
         st.markdown("""
